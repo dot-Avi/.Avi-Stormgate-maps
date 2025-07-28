@@ -1,3 +1,1227 @@
 {
+  "00497388-4576-82DC-4F6E-749C68D3D4C9": {
+    "data": {
+      "seed": 15838
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      737280,
+      -327680
+    ]
+  },
+  "07CBC2AB-460D-841A-A37A-4696E5C1DC01": {
+    "data": {
+      "seed": 7453
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -720896,
+      229376
+    ]
+  },
+  "08AC7869-43E3-1750-A055-05902186F2AA": {
+    "data": {
+      "seed": 9727
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -262144,
+      425984
+    ]
+  },
+  "095F1DFC-481A-6342-D3F0-75A186CB1140": {
+    "data": {
+      "seed": 21246
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -671744,
+      196608
+    ]
+  },
+  "1433E042-4784-CC32-681F-EFAD0B162958": {
+    "data": {
+      "seed": 27227
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      737280,
+      -393216
+    ]
+  },
+  "14820028-4217-C20C-9769-D1ACDD9C0B2D": {
+    "data": {
+      "seed": 4259
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      819200,
+      -425984
+    ]
+  },
+  "18539A8C-4582-490E-EF3E-56B5D08B7611": {
+    "data": {
+      "seed": 22520
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -638976,
+      196608
+    ]
+  },
+  "1B7217AD-44FF-CD59-B5BD-EF8C6DADE772": {
+    "data": {
+      "seed": 26717
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      704512,
+      -393216
+    ]
+  },
+  "1CBD7AE9-4DDD-B08D-7E2B-AAADFAD501DB": {
+    "data": {
+      "seed": 1234
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      819200,
+      -294912
+    ]
+  },
+  "1E6C5F67-4F7A-ACF1-6250-9980B423535E": {
+    "data": {
+      "seed": 1778
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      294912,
+      -376832
+    ]
+  },
+  "2115B31E-4FEC-0338-F00D-7FA3633ABE69": {
+    "data": {
+      "seed": 12523
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -851968,
+      425984
+    ]
+  },
+  "23887133-43E6-7E6E-AEB0-958D4D6EB884": {
+    "data": {
+      "seed": 18469
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -688128,
+      229376
+    ]
+  },
+  "24BC8689-41BC-7CBB-C61E-FEBA5147DED9": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -950272,
+      -344064
+    ]
+  },
+  "24CBD5FB-47C2-C06B-0A2F-2A9E4B36CC70": {
+    "data": {
+      "seed": 17830
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -819200,
+      360448
+    ]
+  },
+  "2B680FCA-4E5B-3BE1-3E55-ECB1BF9D54E2": {
+    "data": {
+      "seed": 5614
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -360448,
+      360448
+    ]
+  },
+  "2CAD48BF-4B32-79C9-FD99-B7AF56563C39": {
+    "data": {
+      "seed": 15124
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      294912,
+      -442368
+    ]
+  },
+  "30085902-4595-5857-72F3-08BE075EF517": {
+    "data": {
+      "seed": 29874
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -770048,
+      393216
+    ]
+  },
+  "31890624-4BBA-5C57-2689-68A1E20F712A": {
+    "data": {
+      "seed": 8621
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      229376,
+      -442368
+    ]
+  },
+  "336B772E-4AED-9B2E-D825-9D8E8330F1B8": {
+    "data": {
+      "seed": 24179
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -737280,
+      393216
+    ]
+  },
+  "34F69E27-45A2-F650-16B0-0A956A26CDCF": {
+    "data": {
+      "seed": 31132
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -819200,
+      425984
+    ]
+  },
+  "353F03BF-44FB-0908-8466-5AB56BC02FB2": {
+    "data": {
+      "seed": 4693
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -638976,
+      262144
+    ]
+  },
+  "360D9DCF-48D1-B554-E3FC-19993A55D0A5": {
+    "data": {
+      "seed": 715
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      704512,
+      -327680
+    ]
+  },
+  "366EF9E8-4E58-2FF4-2725-D09050DA9AE4": {
+    "data": {
+      "seed": 29419
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -704512,
+      327680
+    ]
+  },
+  "39C55957-4973-EA96-58F1-5A80F79EBB15": {
+    "data": {
+      "seed": 15124
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -294912,
+      376832
+    ]
+  },
+  "3C3FF917-4CF2-E26D-A243-A587A3E15E8F": {
+    "data": {
+      "seed": 32516
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      262144,
+      -458752
+    ]
+  },
+  "3CE21694-4DB9-DD68-AD8C-8F9793E1DC89": {
+    "data": {
+      "seed": 15278
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -720896,
+      360448
+    ]
+  },
+  "3D8464FF-4674-087E-824B-11ABBABFE2B0": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      950272,
+      344064
+    ]
+  },
+  "3DC1B18D-4FF4-73B4-A500-E392E41B1BE7": {
+    "data": {
+      "seed": 15278
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      753664,
+      -360448
+    ]
+  },
+  "3EBD4AA6-4B0F-F321-4922-D98229031837": {
+    "data": {
+      "seed": 26187
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      819200,
+      -360448
+    ]
+  },
+  "3EF214A0-4AFE-9261-F82C-5C9BB05105B5": {
+    "data": {
+      "seed": 29148
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      638976,
+      -262144
+    ]
+  },
+  "41FF9D85-4C67-C2E7-BA41-49ADEEC08187": {
+    "data": {
+      "seed": 9286
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      802816,
+      -327680
+    ]
+  },
+  "48A8F379-4E1C-7E5D-3862-A2B43BCF9A25": {
+    "data": {
+      "seed": 15975
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -737280,
+      327680
+    ]
+  },
+  "48BEC470-4261-2854-FD4C-4D9481ABBE88": {
+    "data": {
+      "seed": 9420
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      638976,
+      -196608
+    ]
+  },
+  "49C6C624-429B-40F5-370F-BBB3337A01AF": {
+    "data": {
+      "seed": 26568
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      851968,
+      -425984
+    ]
+  },
+  "4ED3A963-403C-D8F4-487C-B79D67EA21D4": {
+    "data": {
+      "seed": 29381
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -704512,
+      262144
+    ]
+  },
+  "4F9E3F0A-40E8-8038-5B34-7FA61A6D56F8": {
+    "data": {
+      "seed": 8621
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -229376,
+      409600
+    ]
+  },
+  "4FBCD2D1-4F2A-FFC7-3249-DEB6B1663F48": {
+    "data": {
+      "seed": 8183
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -770048,
+      327680
+    ]
+  },
+  "50D4FCD1-4B9F-3FF6-83C9-A6B94AE41FCF": {
+    "data": {
+      "seed": 29543
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -802816,
+      327680
+    ]
+  },
+  "5702D897-4C77-07CE-E4C3-85B7738672C8": {
+    "data": {
+      "seed": 9420
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -753664,
+      294912
+    ]
+  },
+  "588038CE-459F-5260-9627-03AEC54C7D74": {
+    "data": {
+      "seed": 29001
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      327680,
+      -425984
+    ]
+  },
+  "5CE45239-4882-7953-F4CB-47A7EBDD0306": {
+    "data": {
+      "seed": 3036
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      327680,
+      -360448
+    ]
+  },
+  "62B58489-48EA-9E0E-5794-12B752ED744B": {
+    "data": {
+      "seed": 7364
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -753664,
+      360448
+    ]
+  },
+  "672B6874-48DE-3C01-8109-F5A642595891": {
+    "data": {
+      "seed": 17830
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      786432,
+      -360448
+    ]
+  },
+  "7580DA6D-4052-6E91-2B33-7DAA933C34A0": {
+    "data": {
+      "seed": 15952
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      229376,
+      -409600
+    ]
+  },
+  "75A92D32-4912-49F6-AFE6-E6B26C246AAA": {
+    "data": {
+      "seed": 14815
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -835584,
+      327680
+    ]
+  },
+  "762DB6C1-4B35-40DF-01A0-66AC7E767EA6": {
+    "data": {
+      "seed": 7453
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      704512,
+      -262144
+    ]
+  },
+  "7A46F439-4F4E-8F0D-9C1B-29949AF30C52": {
+    "data": {
+      "seed": 4259
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -835584,
+      458752
+    ]
+  },
+  "7A6FF2D5-4C29-47C3-FAEF-4E968C7C0ECA": {
+    "data": {
+      "seed": 28529
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -294912,
+      409600
+    ]
+  },
+  "7F3D992A-4D3A-D7C7-11EA-3CAD4B6282A7": {
+    "data": {
+      "seed": 17573
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -327680,
+      393216
+    ]
+  },
+  "7FE714D5-440F-A755-5C7E-0C8CAC387EF1": {
+    "data": {
+      "seed": 28407
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -835584,
+      393216
+    ]
+  },
+  "83660D35-4EDF-190D-7119-59BB4BE60B98": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -868352,
+      -1212416
+    ]
+  },
+  "85B32B58-4BCC-CD59-8BF1-EBBED953A445": {
+    "data": {
+      "seed": 24360
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      720896,
+      -229376
+    ]
+  },
+  "872DD82C-4212-2498-CBB3-659DA878212A": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      868352,
+      1212416
+    ]
+  },
+  "88A29562-4693-61A0-26C2-45B2617B03A7": {
+    "data": {
+      "seed": 21246
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -655360,
+      229376
+    ]
+  },
+  "8A0201CA-4D91-EF99-D53D-B4869BE4184B": {
+    "data": {
+      "seed": 12523
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      835584,
+      -458752
+    ]
+  },
+  "8C021F54-4A58-0AA5-7900-F4A884046D1F": {
+    "data": {
+      "seed": 5876
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -671744,
+      262144
+    ]
+  },
+  "96EEF146-4FA0-B7A9-CCEC-19A052F84F4B": {
+    "data": {
+      "seed": 15952
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -294912,
+      442368
+    ]
+  },
+  "970CE3D5-4BD7-6B41-B04C-BA8AC7170CF5": {
+    "data": {
+      "seed": 9286
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -786432,
+      294912
+    ]
+  },
+  "97BF3451-421E-6DEC-41A9-DAB700EFDE51": {
+    "data": {
+      "seed": 24360
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -737280,
+      262144
+    ]
+  },
+  "97D238A7-4F78-B1A1-9C00-90B9CA0BC487": {
+    "data": {
+      "seed": 1949
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      851968,
+      -360448
+    ]
+  },
+  "9CDEE0A0-4C92-3D8B-156A-BD846F5ED3F4": {
+    "data": {
+      "seed": 15838
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -720896,
+      294912
+    ]
+  },
+  "A13D814F-4FE9-E000-84A5-8C875D7A3999": {
+    "data": {
+      "seed": 4459
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      671744,
+      -196608
+    ]
+  },
+  "A1909184-45E0-ABA6-2816-18969AF45AA8": {
+    "data": {
+      "seed": 5645
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -360448,
+      393216
+    ]
+  },
+  "A29F9A40-4A57-3403-1CB3-E7A8EA2AA8EE": {
+    "data": {
+      "seed": 28102
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -229376,
+      442368
+    ]
+  },
+  "A2B45135-43C1-B27E-E8F1-5AB28E13F5F6": {
+    "data": {
+      "seed": 26080
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      835584,
+      -393216
+    ]
+  },
+  "A42E14C8-4BA1-C656-1F32-1483F30466CE": {
+    "data": {
+      "seed": 1234
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -802816,
+      393216
+    ]
+  },
+  "A48C8F30-4D24-6176-DF84-6CBD9E39DBC4": {
+    "data": {
+      "seed": 28192
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      671744,
+      -262144
+    ]
+  },
+  "A4D3D1AB-43F2-72DF-3BA5-2E8072BF5E75": {
+    "data": {
+      "seed": 29148
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      622592,
+      -229376
+    ]
+  },
+  "A9FE6AB4-4CF3-CCD7-2F0D-2393B0092364": {
+    "data": {
+      "seed": 5491
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -262144,
+      458752
+    ]
+  },
+  "AA0A1468-49C6-E030-F699-5D8842C04F3B": {
+    "data": {
+      "seed": 23107
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -851968,
+      360448
+    ]
+  },
+  "AC127D2A-48E0-C7E6-2742-B59C8BBDBEAC": {
+    "data": {
+      "seed": 25251
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      720896,
+      -360448
+    ]
+  },
+  "ADB10822-411E-D6F5-F583-9BA2DEDC0C03": {
+    "data": {
+      "seed": 31940
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -262144,
+      393216
+    ]
+  },
+  "B5FCDE91-4831-1D79-EE17-D79B81823BE8": {
+    "data": {
+      "seed": 13746
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      802816,
+      -393216
+    ]
+  },
+  "B695DB90-4082-FE31-BB3B-AC8A335FC043": {
+    "data": {
+      "seed": 27437
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -786432,
+      360448
+    ]
+  },
+  "B7287EC1-40C7-113C-C26B-02899E06F108": {
+    "facing": 0,
+    "kind": "PowerBank",
+    "player": 0,
+    "position": [
+      753664,
+      131072
+    ]
+  },
+  "B8BE5238-4178-996D-5C33-14A867D474E9": {
+    "data": {
+      "seed": 27227
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -704512,
+      393216
+    ]
+  },
+  "B959A531-4F40-0214-5808-04974BA6F149": {
+    "data": {
+      "seed": 18569
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      360448,
+      -327680
+    ]
+  },
+  "BA141C75-4156-C349-959D-C791415C3FEA": {
+    "data": {
+      "seed": 2074
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      294912,
+      -409600
+    ]
+  },
+  "BEC20B5F-46DD-F339-EC25-21A0D9001675": {
+    "data": {
+      "seed": 30338
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      688128,
+      -294912
+    ]
+  },
+  "BF39A369-4BC0-3F35-9A0D-4B9424928C8A": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      65536,
+      -475136
+    ]
+  },
+  "C4D3722A-4043-95E5-02B4-158F8C9A3D65": {
+    "data": {
+      "seed": 433
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -360448,
+      327680
+    ]
+  },
+  "C4E79DE2-43A7-625F-AC02-65B39DFF6FB5": {
+    "data": {
+      "seed": 29419
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      720896,
+      -294912
+    ]
+  },
+  "CCB23637-4645-6037-48A7-33AF3518E2F7": {
+    "data": {
+      "seed": 28529
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      262144,
+      -393216
+    ]
+  },
+  "CF6C6C09-4DC3-E068-635E-DEA03BCB3D36": {
+    "data": {
+      "seed": 4459
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      655360,
+      -229376
+    ]
+  },
+  "D1D4CD53-41C9-3A8E-4A3A-F28190F5DB89": {
+    "data": {
+      "seed": 4693
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -622592,
+      229376
+    ]
+  },
+  "D595260E-4FE1-7648-58DB-68905D39EC5A": {
+    "data": {
+      "seed": 8867
+    },
+    "facing": 0,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      -688128,
+      294912
+    ]
+  },
+  "D623ADE2-47E0-0DBE-4418-93BE9623FFA3": {
+    "data": {
+      "seed": 855
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      770048,
+      -327680
+    ]
+  },
+  "DB460E68-4CB9-B6D4-247C-D99ECBDC8AFA": {
+    "data": {
+      "seed": 4627
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      688128,
+      -229376
+    ]
+  },
+  "DB4AFE3D-435B-71AC-3565-39AE5D5930ED": {
+    "data": {
+      "seed": 5715
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      753664,
+      -294912
+    ]
+  },
+  "DBF086B3-477A-646F-4775-339E9DAF23A7": {
+    "data": {
+      "seed": 3496
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -393216,
+      344064
+    ]
+  },
+  "DE83221A-4E5B-668E-1999-6B8CA9704407": {
+    "data": {
+      "seed": 5966
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      770048,
+      -393216
+    ]
+  },
+  "DFDA4F5D-427C-2248-16B6-3799BDA6CE96": {
+    "data": {
+      "seed": 374
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleLightTree",
+    "player": 0,
+    "position": [
+      737280,
+      -262144
+    ]
+  },
+  "E0E29507-4DB4-1071-F701-ED9AA3AD3A7A": {
+    "data": {
+      "seed": 26187
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -819200,
+      294912
+    ]
+  },
+  "E656AF35-4CBC-E84B-1832-67B80FFE9011": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -65536,
+      475136
+    ]
+  },
+  "E80F7D2D-4974-0AFE-F15D-3EA56401934B": {
+    "facing": 1073741853,
+    "kind": "PowerBank",
+    "player": 0,
+    "position": [
+      -753664,
+      -131072
+    ]
+  },
+  "E9FDC315-4009-311F-5A7C-F0BFA33A0402": {
+    "data": {
+      "seed": 23429
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      835584,
+      -327680
+    ]
+  },
+  "EA198407-4CBC-6676-0008-47A0B3729C18": {
+    "data": {
+      "seed": 3496
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      360448,
+      -360448
+    ]
+  },
+  "EBB84201-4521-0DAE-333D-C7A377E9961B": {
+    "data": {
+      "seed": 981
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      327680,
+      -393216
+    ]
+  },
+  "F018264D-4327-0C9B-5359-B094D2D20BDA": {
+    "data": {
+      "seed": 18989
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      786432,
+      -294912
+    ]
+  },
+  "F1DFD593-4B7B-31AD-2293-67A7F1989186": {
+    "data": {
+      "seed": 23284
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      360448,
+      -393216
+    ]
+  },
+  "F348F55E-419E-07F4-1427-36A1A579A211": {
+    "data": {
+      "seed": 13568
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      393216,
+      -344064
+    ]
+  },
+  "F46D2708-4A69-C3BC-59A4-1FAF7DFA20A4": {
+    "data": {
+      "seed": 31940
+    },
+    "facing": 1073741853,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      262144,
+      -425984
+    ]
+  },
+  "F9FEFF26-49AC-FA20-E7F8-328CB470A35E": {
+    "data": {
+      "seed": 981
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -327680,
+      360448
+    ]
+  },
+  "FF17533B-4847-7054-BAC3-F59AA2578F15": {
+    "data": {
+      "seed": 3036
+    },
+    "facing": 0,
+    "kind": "DestructibleForest",
+    "player": 0,
+    "position": [
+      -327680,
+      425984
+    ]
+  },
   "version": 1
 }
