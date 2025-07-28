@@ -5,7 +5,7 @@
   "cliff_set_b": "DA_Cliffset_Rand_A",
   "display_name": "",
   "doodad_aggregate_layer": "Moss",
-  "id": "TerrainTileset_AutumnFortress",
+  "id": "TerrainTileset_SigmaAutumn",
   "layer_1": "TerrainLayer_ForestAutumn_Mud",
   "layer_2": "TerrainLayer_ForestAutumn_Dirt",
   "layer_3": "TerrainLayer_ForestAutumn_DarkGrass",
