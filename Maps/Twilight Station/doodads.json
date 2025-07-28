@@ -1,0 +1,131 @@
+{
+  "_doodad_file_version": 1,
+  "actor_classes": [
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "Decal_MilitaryBase_12"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "Sigma_CliffWalls_13"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "Sigma_HUB_BridgeWindows_01"
+    }
+  ],
+  "placements": {
+    "0D00C497-4EE3-C08F-434C-4083F96485A0": {
+      "class": 1,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        2432.0,
+        9088.0,
+        1280.000023589438,
+        0.0,
+        180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "3D173C67-40F4-605C-581F-AC9D9EE5B330": {
+      "class": 0,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -4352.811930592432,
+        -5632.602262467846,
+        1535.999998676897,
+        0.0,
+        0.0,
+        0.0,
+        5.5,
+        5.5,
+        5.5
+      ]
+    },
+    "B07050ED-4721-D8E5-A2FC-55849E633697": {
+      "class": 0,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        8197.951166131377,
+        5117.856644082312,
+        1791.9999399494354,
+        0.0,
+        -180.0,
+        0.0,
+        5.5,
+        5.5,
+        5.5
+      ]
+    },
+    "C9445ABE-459C-F92B-1EB4-CDB13FA41ED6": {
+      "class": 0,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        4352.811930592434,
+        5632.602262467844,
+        1535.999998676897,
+        0.0,
+        -180.0,
+        0.0,
+        5.5,
+        5.5,
+        5.5
+      ]
+    },
+    "E7C5CF16-4AC5-D72B-F6AF-D7A1DFD1727F": {
+      "class": 0,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -8197.951166131377,
+        -5117.856644082311,
+        1791.9999399494354,
+        0.0,
+        0.0,
+        0.0,
+        5.5,
+        5.5,
+        5.5
+      ]
+    },
+    "E80512C7-44EC-34F0-C509-1AB453686A5E": {
+      "class": 1,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -2432.0,
+        -9088.0,
+        1280.000023589438,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "F7FE6A4E-4783-CA12-4CC9-2495E383FB74": {
+      "class": 2,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        -6656.0,
+        139264.0,
+        512.0,
+        0.0,
+        0.0,
+        0.0,
+        75.0,
+        75.0,
+        0.01
+      ]
+    }
+  }
+}

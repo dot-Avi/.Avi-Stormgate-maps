@@ -1,0 +1,101 @@
+﻿{
+  "actions": [
+    {
+      "function_id": "Game_SpawnStartingUnits",
+      "guid": "8A713768460328E37D3922BD65051665",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "518DF29743AAF320D85CE38D3C535DAF",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "414E44DB474F5233B765C0BB47AA7E74",
+              "type": "Function"
+            }
+          ],
+          "guid": "66C6A48848D86FB231D67EABAEAE25BA",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_SpawnTopBar",
+      "guid": "2DF400924B05A662AF7B498AD5A082C9",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "43EFD94746CB39A80F19F0BB1501C9B3",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "6A6C29844259B9A71D24EBAFB4E05C53",
+              "type": "Function"
+            }
+          ],
+          "guid": "E4A7F036443A93BFDAB42989FC75962F",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_SetStartingResources",
+      "guid": "183503EC407BB61DA3C1D9A7C5332341",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "EF72B7D34C426E569E6EC98DFEDC62E6",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "DC862383401CFA458BF5AFBE58B08E2E",
+              "type": "Function"
+            }
+          ],
+          "guid": "143F44EB47DDDF5E5F0B80819E447F4B",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_ActivateEliminationWinCondition",
+      "guid": "10CF6F2242F56ABCB7DA93AA389FAACB",
+      "is_enabled": true,
+      "parameters": [],
+      "sub_functions": []
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [],
+  "dev_only": false,
+  "enabled": true,
+  "events": [
+    {
+      "function_id": "Game_OnMapInitialization",
+      "guid": "74B4F3C641E35EDF21C75E95FC0FF322",
+      "is_enabled": true,
+      "parameters": [],
+      "sub_functions": []
+    }
+  ],
+  "id": "MeleeInitialization",
+  "variables": []
+}

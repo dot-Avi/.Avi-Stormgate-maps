@@ -1,0 +1,228 @@
+{
+  "0A37FCC0-40CD-B5A3-0B37-FAA1B58E3B2D": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      442368,
+      1048576
+    ]
+  },
+  "2673CB72-4252-9485-DD18-66A56242DDD3": {
+    "facing": 1854266632,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      -1081344,
+      -311296
+    ]
+  },
+  "27D7CBF6-44E9-E929-75F7-82AB408FE908": {
+    "facing": 949907685,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      -1032192,
+      -311296
+    ]
+  },
+  "2F447EFE-4950-76F0-3B06-D583746A4938": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -884736,
+      -557056
+    ]
+  },
+  "427B4995-4BAE-A15D-F41D-E09B60388322": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      819200,
+      1048576
+    ]
+  },
+  "46C5A062-46AF-479E-B191-F89B3086D878": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      655360,
+      1048576
+    ]
+  },
+  "627A5DDD-4784-67D0-0583-5581E7257A03": {
+    "facing": 291742391,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      1032192,
+      311296
+    ]
+  },
+  "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      1129859,
+      -745406
+    ]
+  },
+  "67E0E629-4889-8186-4BC2-45840DA6AADE": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -442368,
+      -1048576
+    ]
+  },
+  "83D5B5C9-4CB3-2A30-C60A-75A5A6DAD320": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged1",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "8A01808C-43A2-5D1C-1DA5-48B796131D2D": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -819200,
+      -1048576
+    ]
+  },
+  "8DD8B18F-497C-322D-7E4E-978BDBCD621F": {
+    "facing": 777870442,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      -1130496,
+      -311296
+    ]
+  },
+  "92412B63-4981-1AFC-E2CE-F786FD8E1E9F": {
+    "facing": 1196297882,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      1130496,
+      311296
+    ]
+  },
+  "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar2",
+    "player": 31,
+    "position": [
+      1119122,
+      -1016116
+    ]
+  },
+  "A2A2250D-4AA6-E18D-881F-89AAE42E4DFA": {
+    "facing": 1755337098,
+    "kind": "DestructibleDebris",
+    "player": 0,
+    "position": [
+      1081344,
+      311296
+    ]
+  },
+  "B8291B00-4FEB-3C3F-46FC-F5B4A432523C": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      753664,
+      114688
+    ]
+  },
+  "BA8C4F8A-4F58-B52D-77CB-A78B3E68EE67": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -802816,
+      -376832
+    ]
+  },
+  "BB852966-4B81-0444-BC9F-8B80EE49E6C6": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -753664,
+      -114688
+    ]
+  },
+  "BF63395A-438C-9CBA-5410-0B825565AC8E": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged2",
+    "player": 31,
+    "position": [
+      1114112,
+      -1032192
+    ]
+  },
+  "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      1114112,
+      -737280
+    ]
+  },
+  "C9DB0491-4D81-159C-4934-D0A53064D5F2": {
+    "facing": 1073741998,
+    "kind": "Wellspring1v1",
+    "player": 0,
+    "position": [
+      1163264,
+      -1146880
+    ]
+  },
+  "D5D306FE-4169-C137-1CC7-1C90F348FC30": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      884736,
+      557056
+    ]
+  },
+  "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar1",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "F0559241-4672-B35E-9DE8-4DB6AAF78CD6": {
+    "facing": 1073741853,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -655360,
+      -1048576
+    ]
+  },
+  "F5904013-4CF7-D4E6-E157-43BE7C0E2B05": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      802816,
+      376832
+    ]
+  },
+  "version": 1
+}

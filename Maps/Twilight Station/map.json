@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    224,
+    224
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "15218c37-4e3e-0ed8-25c0-55beebb9e31f",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_SigmaStation",
+  "version": "1.0.0",
+  "visibility": "Hidden"
+}
