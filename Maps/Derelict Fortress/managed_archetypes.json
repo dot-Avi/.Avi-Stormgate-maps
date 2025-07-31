@@ -1,16 +1,19 @@
 ﻿{
   "map": {
     "_StormgateObjectiveSubmerged0": {
+      "attack_target_priority": 10,
       "based_on": "StormgateObjectiveSubmerged",
       "id": "_StormgateObjectiveSubmerged0",
       "placed_name": "StormgateSubmerged1"
     },
     "_StormgateObjectiveSubmerged1": {
+      "attack_target_priority": 10,
       "based_on": "StormgateObjectiveSubmerged",
       "id": "_StormgateObjectiveSubmerged1",
       "placed_name": "StormgateSubmerged2"
     },
     "_StormgateObjectiveSubmerged2": {
+      "attack_target_priority": 10,
       "based_on": "StormgateObjectiveSubmerged",
       "id": "_StormgateObjectiveSubmerged2",
       "placed_name": "StormgateSubmerged3"

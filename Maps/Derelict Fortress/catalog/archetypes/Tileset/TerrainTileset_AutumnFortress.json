@@ -1,8 +1,8 @@
 ﻿{
   "__base_type": "TerrainTileset",
   "based_on": "TerrainTileset_ForestAutumn",
-  "cliff_set_a": "DA_Cliffset_Sigma1",
-  "cliff_set_b": "DA_Cliffset_Rand_A",
+  "cliff_set_a": "DA_Cliffset_Rand_A",
+  "cliff_set_b": "DA_Cliffset_Sigma1",
   "display_name": "",
   "doodad_aggregate_layer": "Moss",
   "id": "TerrainTileset_SigmaAutumn",

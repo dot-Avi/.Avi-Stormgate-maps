@@ -25,7 +25,7 @@
   "placements": {
     "031D7781-4E57-5FF1-DDE6-CF937C549471": {
       "class": 4,
-      "collision": true,
+      "collision": false,
       "homing": false,
       "trs": [
         1152.0,
@@ -73,7 +73,7 @@
     },
     "1D0DEE50-48C6-E107-78D9-C09ADEF8C130": {
       "class": 4,
-      "collision": true,
+      "collision": false,
       "homing": false,
       "trs": [
         768.0,
@@ -137,7 +137,7 @@
     },
     "6B4E0DF3-43BF-327A-E5B6-81A7DD1A6F8A": {
       "class": 1,
-      "collision": true,
+      "collision": false,
       "homing": true,
       "trs": [
         384.0,
@@ -169,7 +169,7 @@
     },
     "A0ACBD7F-40E9-887C-F44F-44B9AA2A11AA": {
       "class": 4,
-      "collision": true,
+      "collision": false,
       "homing": false,
       "trs": [
         -768.0,
@@ -249,7 +249,7 @@
     },
     "EE166EE9-42EE-A19C-C082-1D8DD55028BA": {
       "class": 4,
-      "collision": true,
+      "collision": false,
       "homing": false,
       "trs": [
         -1152.0,
@@ -265,7 +265,7 @@
     },
     "EE62A15A-4B26-0E69-FF4E-59B08839F1EB": {
       "class": 1,
-      "collision": true,
+      "collision": false,
       "homing": true,
       "trs": [
         -384.0,
