@@ -6,8 +6,9 @@
   "player_slots": [
     {
       "attribute_instance_map_settings": {
+        "additional_overrides": [],
         "slot_type": {
-          "locked": true,
+          "locked": false,
           "value": "human"
         },
         "team": {
@@ -18,9 +19,10 @@
     },
     {
       "attribute_instance_map_settings": {
+        "additional_overrides": [],
         "slot_type": {
           "locked": false,
-          "value": "ai"
+          "value": "human"
         },
         "team": {
           "locked": false,
@@ -29,9 +31,13 @@
       }
     }
   ],
-  "tileset": "TerrainTileset_AutumnFortress",
+  "tileset": "TerrainTileset_SigmaAutumn",
   "time_of_day": {
-    "scale": 1.0
+    "dawn_sound": "SoundData_Daybreak",
+    "day_length": 210.0,
+    "dusk_sound": "SoundData_Nightfall",
+    "scale": 1.0,
+    "starting_hour": 12.0
   },
   "title": "Untitled Map"
 }
