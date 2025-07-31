@@ -3,6 +3,7 @@
   "description": "Just another Stormgate map",
   "id": "InstanceMapSettings",
   "lighting_settings": "DefaultLightingTOD",
+  "map_music": "SoundData_Music_Multiplayer",
   "player_slots": [
     {
       "attribute_instance_map_settings": {
@@ -37,7 +38,11 @@
     "day_length": 210.0,
     "dusk_sound": "SoundData_Nightfall",
     "scale": 1.0,
+<<<<<<< Updated upstream
     "starting_hour": 12.0
+=======
+    "starting_hour": 6.0
+>>>>>>> Stashed changes
   },
   "title": "Untitled Map"
 }

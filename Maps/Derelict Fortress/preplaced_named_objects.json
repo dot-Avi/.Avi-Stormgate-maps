@@ -47,6 +47,7 @@
       196608
     ]
   },
+<<<<<<< Updated upstream
   "0A7046B8-48F6-5119-92E7-DFA254F169B5": {
     "facing": 0,
     "kind": "MegaResourceA",
@@ -56,6 +57,8 @@
       -1163264
     ]
   },
+=======
+>>>>>>> Stashed changes
   "1433E042-4784-CC32-681F-EFAD0B162958": {
     "data": {
       "seed": 27227
@@ -347,6 +350,7 @@
       -360448
     ]
   },
+<<<<<<< Updated upstream
   "3E1589CD-479F-61E3-3528-8D8F35CB8A6F": {
     "facing": 0,
     "kind": "ResourceB_Generator_2x2",
@@ -365,6 +369,8 @@
       1163264
     ]
   },
+=======
+>>>>>>> Stashed changes
   "3EBD4AA6-4B0F-F321-4922-D98229031837": {
     "data": {
       "seed": 26187
@@ -437,6 +443,18 @@
       -425984
     ]
   },
+<<<<<<< Updated upstream
+=======
+  "4C0880A0-4963-FFAC-C2C1-E39117DE3404": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      147456,
+      -1261568
+    ]
+  },
+>>>>>>> Stashed changes
   "4ED3A963-403C-D8F4-487C-B79D67EA21D4": {
     "data": {
       "seed": 29381
@@ -542,6 +560,7 @@
       360448
     ]
   },
+<<<<<<< Updated upstream
   "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
     "facing": 0,
     "kind": "_StormgateObjective_TugOfWar0",
@@ -551,6 +570,8 @@
       0
     ]
   },
+=======
+>>>>>>> Stashed changes
   "672B6874-48DE-3C01-8109-F5A642595891": {
     "data": {
       "seed": 17830
@@ -581,6 +602,7 @@
       -425984
     ]
   },
+<<<<<<< Updated upstream
   "6D94FEF9-431C-B37D-BD03-D2822C35F4C4": {
     "facing": 0,
     "kind": "ResourceB_Generator_2x2",
@@ -590,6 +612,8 @@
       1359872
     ]
   },
+=======
+>>>>>>> Stashed changes
   "7580DA6D-4052-6E91-2B33-7DAA933C34A0": {
     "data": {
       "seed": 15952
@@ -683,6 +707,7 @@
       393216
     ]
   },
+<<<<<<< Updated upstream
   "83D5B5C9-4CB3-2A30-C60A-75A5A6DAD320": {
     "facing": 0,
     "kind": "_StormgateObjectiveSubmerged1",
@@ -692,6 +717,8 @@
       0
     ]
   },
+=======
+>>>>>>> Stashed changes
   "8492CD5E-4291-744C-0FA1-F895FA07E54B": {
     "facing": 0,
     "kind": "ResourceB_Generator_2x2",
@@ -776,6 +803,18 @@
       -1048576
     ]
   },
+<<<<<<< Updated upstream
+=======
+  "94686328-4DAC-2EA8-C9DC-97876F39780C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -32768,
+      -1081344
+    ]
+  },
+>>>>>>> Stashed changes
   "96EEF146-4FA0-B7A9-CCEC-19A052F84F4B": {
     "data": {
       "seed": 15952
@@ -854,6 +893,7 @@
       -458752
     ]
   },
+<<<<<<< Updated upstream
   "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
     "facing": 0,
     "kind": "_StormgateObjective_TugOfWar2",
@@ -863,6 +903,8 @@
       49152
     ]
   },
+=======
+>>>>>>> Stashed changes
   "A13D814F-4FE9-E000-84A5-8C875D7A3999": {
     "data": {
       "seed": 4459
@@ -1034,6 +1076,18 @@
       -393216
     ]
   },
+<<<<<<< Updated upstream
+=======
+  "B695DA9F-4BDA-1673-6FC5-3E9DA6BCFE5E": {
+    "facing": 1073741853,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      32768,
+      1081344
+    ]
+  },
+>>>>>>> Stashed changes
   "B695DB90-4082-FE31-BB3B-AC8A335FC043": {
     "data": {
       "seed": 27437
@@ -1112,6 +1166,7 @@
       802816
     ]
   },
+<<<<<<< Updated upstream
   "BF63395A-438C-9CBA-5410-0B825565AC8E": {
     "facing": 0,
     "kind": "_StormgateObjectiveSubmerged2",
@@ -1130,6 +1185,8 @@
       49152
     ]
   },
+=======
+>>>>>>> Stashed changes
   "C4D3722A-4043-95E5-02B4-158F8C9A3D65": {
     "data": {
       "seed": 433
@@ -1286,6 +1343,7 @@
       294912
     ]
   },
+<<<<<<< Updated upstream
   "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
     "facing": 0,
     "kind": "_StormgateObjective_TugOfWar1",
@@ -1293,6 +1351,15 @@
     "position": [
       -524288,
       -49152
+=======
+  "E5CA161E-44D9-F6EE-149D-A7B6A78BA35A": {
+    "facing": 1073741853,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -147456,
+      1261568
+>>>>>>> Stashed changes
     ]
   },
   "E9FDC315-4009-311F-5A7C-F0BFA33A0402": {
@@ -1421,5 +1488,62 @@
       425984
     ]
   },
+<<<<<<< Updated upstream
+=======
+   "9201E0AF-4294-C008-3298-C28311A27CB6": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar2",
+    "player": 31,
+    "position": [
+      1065252,
+      7500
+    ]
+  },
+   "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar1",
+    "player": 31,
+    "position": [
+      -948229,
+      1240
+    ]
+  },
+   "BF63395A-438C-9CBA-5410-0B825565AC8E": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged1",
+    "player": 31,
+    "position": [
+      -948556,
+      1997
+    ]
+  },
+   "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      133624,
+      18303
+    ]
+  },
+  "DBD97FD5-488E-16B7-FB17-5B91FB165EC9": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged2",
+    "player": 31,
+    "position": [
+      1065951,
+      10375
+    ]
+  },
+  "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      130568,
+      16819
+    ]
+  },
+>>>>>>> Stashed changes
   "version": 1
 }
