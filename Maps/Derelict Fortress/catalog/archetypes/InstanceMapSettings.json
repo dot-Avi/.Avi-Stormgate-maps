@@ -38,15 +38,7 @@
     "day_length": 210.0,
     "dusk_sound": "SoundData_Nightfall",
     "scale": 1.0,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "starting_hour": 12.0
-=======
     "starting_hour": 6.0
->>>>>>> Stashed changes
-=======
-    "starting_hour": 6.0
->>>>>>> Stashed changes
   },
   "title": "Untitled Map"
 }
