@@ -47,6 +47,15 @@
       196608
     ]
   },
+  "0A7046B8-48F6-5119-92E7-DFA254F169B5": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      16384,
+      -1163264
+    ]
+  },
   "1433E042-4784-CC32-681F-EFAD0B162958": {
     "data": {
       "seed": 27227
@@ -260,6 +269,15 @@
       -327680
     ]
   },
+  "366B0E20-42EC-D4DE-5312-61858C883F8D": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      868352,
+      1048576
+    ]
+  },
   "366EF9E8-4E58-2FF4-2725-D09050DA9AE4": {
     "data": {
       "seed": 29419
@@ -309,7 +327,7 @@
     ]
   },
   "3D8464FF-4674-087E-824B-11ABBABFE2B0": {
-    "facing": 1073741853,
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
@@ -327,6 +345,24 @@
     "position": [
       753664,
       -360448
+    ]
+  },
+  "3E1589CD-479F-61E3-3528-8D8F35CB8A6F": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      49152,
+      -1359872
+    ]
+  },
+  "3E16D2D9-4CCA-1F43-EE2B-C58EE4FF0453": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -16384,
+      1163264
     ]
   },
   "3EBD4AA6-4B0F-F321-4922-D98229031837": {
@@ -485,6 +521,15 @@
       -360448
     ]
   },
+  "61D49966-46BC-24DA-BB64-90A42A810B8F": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -1114112,
+      -409600
+    ]
+  },
   "62B58489-48EA-9E0E-5794-12B752ED744B": {
     "data": {
       "seed": 7364
@@ -497,6 +542,15 @@
       360448
     ]
   },
+  "654CBB78-425A-F294-93BD-C5B4B7E8EAF4": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
   "672B6874-48DE-3C01-8109-F5A642595891": {
     "data": {
       "seed": 17830
@@ -507,6 +561,33 @@
     "position": [
       786432,
       -360448
+    ]
+  },
+  "6A18CE5B-4544-D9AB-29A5-98BF5B8AFF3A": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      442368,
+      -884736
+    ]
+  },
+  "6BB98A3F-4CF1-B146-41E4-EBADD558979E": {
+    "facing": 0,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      950272,
+      -425984
+    ]
+  },
+  "6D94FEF9-431C-B37D-BD03-D2822C35F4C4": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -49152,
+      1359872
     ]
   },
   "7580DA6D-4052-6E91-2B33-7DAA933C34A0": {
@@ -569,6 +650,15 @@
       409600
     ]
   },
+  "7BF02296-4D2F-B39B-B900-079EB338B276": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      1114112,
+      409600
+    ]
+  },
   "7F3D992A-4D3A-D7C7-11EA-3CAD4B6282A7": {
     "data": {
       "seed": 17573
@@ -593,13 +683,22 @@
       393216
     ]
   },
-  "83660D35-4EDF-190D-7119-59BB4BE60B98": {
+  "83D5B5C9-4CB3-2A30-C60A-75A5A6DAD320": {
     "facing": 0,
-    "kind": "MegaResourceA",
+    "kind": "_StormgateObjectiveSubmerged1",
+    "player": 31,
+    "position": [
+      0,
+      0
+    ]
+  },
+  "8492CD5E-4291-744C-0FA1-F895FA07E54B": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
-      -868352,
-      -1212416
+      720896,
+      1163264
     ]
   },
   "85B32B58-4BCC-CD59-8BF1-EBBED953A445": {
@@ -614,13 +713,13 @@
       -229376
     ]
   },
-  "872DD82C-4212-2498-CBB3-659DA878212A": {
-    "facing": 1073741853,
+  "871325C4-4635-4E71-7B96-C68578D0B00F": {
+    "facing": 0,
     "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      868352,
-      1212416
+      -49152,
+      458752
     ]
   },
   "88A29562-4693-61A0-26C2-45B2617B03A7": {
@@ -657,6 +756,24 @@
     "position": [
       -671744,
       262144
+    ]
+  },
+  "8CB825D6-4F0E-F019-4110-A6942CA1026F": {
+    "facing": 0,
+    "kind": "Wellspring1v1",
+    "player": 0,
+    "position": [
+      -966656,
+      -16384
+    ]
+  },
+  "90A84EEF-44F7-5E7D-6EEB-7F94CB848165": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -868352,
+      -1048576
     ]
   },
   "96EEF146-4FA0-B7A9-CCEC-19A052F84F4B": {
@@ -707,6 +824,15 @@
       -360448
     ]
   },
+  "99775EE6-4697-7909-EFCD-D99005F524BC": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -720896,
+      -1163264
+    ]
+  },
   "9CDEE0A0-4C92-3D8B-156A-BD846F5ED3F4": {
     "data": {
       "seed": 15838
@@ -717,6 +843,24 @@
     "position": [
       -720896,
       294912
+    ]
+  },
+  "9FDF77DD-43EF-98C5-C6CA-E0A3B1D46BF6": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      49152,
+      -458752
+    ]
+  },
+  "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar2",
+    "player": 31,
+    "position": [
+      524288,
+      49152
     ]
   },
   "A13D814F-4FE9-E000-84A5-8C875D7A3999": {
@@ -779,6 +923,15 @@
       393216
     ]
   },
+  "A42F7B2F-495E-578D-481B-A78B6AAB403F": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      -442368,
+      884736
+    ]
+  },
   "A48C8F30-4D24-6176-DF84-6CBD9E39DBC4": {
     "data": {
       "seed": 28192
@@ -801,6 +954,15 @@
     "position": [
       622592,
       -229376
+    ]
+  },
+  "A821AC2D-4AD5-88C2-ACB2-939CC85672C1": {
+    "facing": 0,
+    "kind": "RichMegaResourceA",
+    "player": 0,
+    "position": [
+      -950272,
+      425984
     ]
   },
   "A9FE6AB4-4CF3-CCD7-2F0D-2393B0092364": {
@@ -839,6 +1001,15 @@
       -360448
     ]
   },
+  "AD2AE5FF-489E-0472-AC22-9B89822A3CD5": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 0,
+    "position": [
+      -868352,
+      -1212416
+    ]
+  },
   "ADB10822-411E-D6F5-F583-9BA2DEDC0C03": {
     "data": {
       "seed": 31940
@@ -875,13 +1046,13 @@
       360448
     ]
   },
-  "B7287EC1-40C7-113C-C26B-02899E06F108": {
+  "B88D3C44-4395-F5D4-3659-28A3C404953E": {
     "facing": 0,
-    "kind": "PowerBank",
+    "kind": "MegaResourceA",
     "player": 0,
     "position": [
-      753664,
-      131072
+      868352,
+      1212416
     ]
   },
   "B8BE5238-4178-996D-5C33-14A867D474E9": {
@@ -932,13 +1103,31 @@
       -294912
     ]
   },
-  "BF39A369-4BC0-3F35-9A0D-4B9424928C8A": {
-    "facing": 1073741853,
-    "kind": "MegaResourceA",
+  "BF51271C-42AA-F9D9-1746-9B9F8D52474F": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
     "player": 0,
     "position": [
-      65536,
-      -475136
+      -524288,
+      802816
+    ]
+  },
+  "BF63395A-438C-9CBA-5410-0B825565AC8E": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged2",
+    "player": 31,
+    "position": [
+      -524288,
+      -49152
+    ]
+  },
+  "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      524288,
+      49152
     ]
   },
   "C4D3722A-4043-95E5-02B4-158F8C9A3D65": {
@@ -1097,22 +1286,13 @@
       294912
     ]
   },
-  "E656AF35-4CBC-E84B-1832-67B80FFE9011": {
+  "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
     "facing": 0,
-    "kind": "MegaResourceA",
-    "player": 0,
+    "kind": "_StormgateObjective_TugOfWar1",
+    "player": 31,
     "position": [
-      -65536,
-      475136
-    ]
-  },
-  "E80F7D2D-4974-0AFE-F15D-3EA56401934B": {
-    "facing": 1073741853,
-    "kind": "PowerBank",
-    "player": 0,
-    "position": [
-      -753664,
-      -131072
+      -524288,
+      -49152
     ]
   },
   "E9FDC315-4009-311F-5A7C-F0BFA33A0402": {
@@ -1151,6 +1331,15 @@
       -393216
     ]
   },
+  "EFD8DEB9-4758-FE2B-41A7-08A2F5799C8A": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 0,
+    "position": [
+      524288,
+      -802816
+    ]
+  },
   "F018264D-4327-0C9B-5359-B094D2D20BDA": {
     "data": {
       "seed": 18989
@@ -1185,6 +1374,15 @@
     "position": [
       393216,
       -344064
+    ]
+  },
+  "F3AF1E7A-433D-0DBC-4EF2-6DB90F3F944A": {
+    "facing": 144,
+    "kind": "Wellspring1v1",
+    "player": 0,
+    "position": [
+      966656,
+      16384
     ]
   },
   "F46D2708-4A69-C3BC-59A4-1FAF7DFA20A4": {

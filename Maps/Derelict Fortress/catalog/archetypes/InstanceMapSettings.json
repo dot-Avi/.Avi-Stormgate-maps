@@ -29,7 +29,7 @@
       }
     }
   ],
-  "tileset": "TerrainTileset_AutumnFortress",
+  "tileset": "TerrainTileset_SigmaAutumn",
   "time_of_day": {
     "scale": 1.0
   },
