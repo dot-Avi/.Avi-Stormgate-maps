@@ -10,15 +10,7 @@
   "id": "3792860c-4914-c8d7-7c2f-f0aece380ef6",
   "map_name": "Unititled Map",
   "map_tags": [],
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   "tile_set_id": "TerrainTileset_SigmaAutumn",
-=======
-  "tile_set_id": "TerrainTileset_AutumnFortress",
->>>>>>> Stashed changes
-=======
-  "tile_set_id": "TerrainTileset_AutumnFortress",
->>>>>>> Stashed changes
   "version": "1.0.0",
   "visibility": "Unexplored"
 }
