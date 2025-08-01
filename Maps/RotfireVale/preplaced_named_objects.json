@@ -1,0 +1,4008 @@
+{
+  "004C755F-44D0-FD8F-32CB-42A0BAA45990": {
+    "data": {
+      "seed": 23994
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      720896
+    ]
+  },
+  "01A51905-4513-45A1-569B-FDB5A5FF7788": {
+    "data": {
+      "seed": 17134
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -655360,
+      -16384
+    ]
+  },
+  "02C05DAD-4510-306B-0BF1-3EB7A50E6726": {
+    "data": {
+      "seed": 29915
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      0
+    ]
+  },
+  "03A459BC-4213-62E7-1319-62B2C53FC3D2": {
+    "data": {
+      "seed": 6097
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      -114688
+    ]
+  },
+  "03BE49F8-4587-029D-115A-DF8EB69C6452": {
+    "data": {
+      "seed": 19952
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      32768
+    ]
+  },
+  "04677148-4BF7-277B-17D7-40B8BC9D8A85": {
+    "data": {
+      "seed": 19240
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      32768
+    ]
+  },
+  "048B3C0D-4538-F098-582E-A0ABF723716A": {
+    "data": {
+      "seed": 3667
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      475136,
+      -1310720
+    ]
+  },
+  "05571F7F-43A1-AC79-DC6D-07B525DE71D6": {
+    "data": {
+      "seed": 13852
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -32768
+    ]
+  },
+  "07501DAF-4948-AB94-350B-DB8B846FAD3B": {
+    "data": {
+      "seed": 28863
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      -131072
+    ]
+  },
+  "08388C32-4AC0-631F-155B-43B30D5F59B2": {
+    "data": {
+      "seed": 29384
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      1310720
+    ]
+  },
+  "09E07FC6-4033-263D-7285-9591706D9C65": {
+    "data": {
+      "seed": 8560
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      1277952
+    ]
+  },
+  "0A63A616-4F80-5859-ADCB-11A346D0D0D1": {
+    "data": {
+      "seed": 7956
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -737280,
+      49152
+    ]
+  },
+  "0B4CEF41-481F-2F57-28A7-21BB6A724A6B": {
+    "data": {
+      "seed": 24471
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -458752,
+      -16384
+    ]
+  },
+  "0F4EA6FC-4EEE-B88B-67BF-8DA2F0C241B9": {
+    "data": {
+      "seed": 2353
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      131072
+    ]
+  },
+  "0F72F6A8-4F68-C438-7A30-E29225A12828": {
+    "data": {
+      "seed": 13912
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      507904,
+      1376256
+    ]
+  },
+  "0FB626EE-4141-C381-DF88-718206FE07D4": {
+    "data": {
+      "seed": 23460
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -950272,
+      475136
+    ]
+  },
+  "0FD8CB52-44BE-2313-7CD2-ED80B6CDDEE2": {
+    "data": {
+      "seed": 307
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      475136,
+      1376256
+    ]
+  },
+  "113B44C3-4BF4-5174-2E9E-0F83CBB88A53": {
+    "data": {
+      "seed": 5307
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -835584,
+      458752
+    ]
+  },
+  "11D07209-49FC-F2E6-CA75-1C9BFED5755A": {
+    "data": {
+      "seed": 8710
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -376832,
+      49152
+    ]
+  },
+  "12A2479A-4652-A35E-E91E-6FB4090F8584": {
+    "data": {
+      "seed": 19240
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      -32768
+    ]
+  },
+  "12F91F56-477A-FAE3-B8C1-DCBAC66FC4AB": {
+    "data": {
+      "seed": 11266
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -753664,
+      884736
+    ]
+  },
+  "13FA1CF9-4A57-0CA6-7905-72A3AE2D1296": {
+    "data": {
+      "seed": 15025
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -819200
+    ]
+  },
+  "14577D42-4AA6-833B-2F24-C7B4AB4A7721": {
+    "data": {
+      "seed": 26253
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -983040
+    ]
+  },
+  "148FF09A-40A0-CE8F-46F6-56AD58F20FA0": {
+    "data": {
+      "seed": 19364
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -409600,
+      -49152
+    ]
+  },
+  "14914120-44AC-B5FD-4FAC-E18FD9256C88": {
+    "data": {
+      "seed": 13049
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      -49152
+    ]
+  },
+  "1496F05A-4E89-5080-61DD-C8BD126CAB3A": {
+    "data": {
+      "seed": 3984
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -901120,
+      -983040
+    ]
+  },
+  "14FF13C1-4B7A-182F-F77B-2C861911FF4B": {
+    "data": {
+      "seed": 13912
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      -1277952
+    ]
+  },
+  "15C85E58-49F4-E58A-9863-4AB5C0E0C369": {
+    "data": {
+      "seed": 2308
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -442368,
+      49152
+    ]
+  },
+  "15C8886E-4ECC-B1D6-4690-0881DC8FCF54": {
+    "data": {
+      "seed": 2396
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      -81920
+    ]
+  },
+  "1606F138-4AE1-2B61-295E-BB92E7D7D0AC": {
+    "data": {
+      "seed": 16489
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -770048,
+      -475136
+    ]
+  },
+  "16997089-4330-268D-11AF-2FA63A444E64": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      622592,
+      163840
+    ]
+  },
+  "172A2382-419E-87C9-D13D-6494671882A2": {
+    "data": {
+      "seed": 13766
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -49152
+    ]
+  },
+  "17DC4A6E-4362-B285-C5AD-60961FB9C828": {
+    "data": {
+      "seed": 18862
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      1409024
+    ]
+  },
+  "1861F920-495C-5937-18A9-8F8A67F71C2C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -393216,
+      917504
+    ]
+  },
+  "18787E41-440C-2424-C893-3E95A84E795E": {
+    "data": {
+      "seed": 2353
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      -163840
+    ]
+  },
+  "1920111D-43AA-E5BB-9447-32A396B7AB8D": {
+    "data": {
+      "seed": 19872
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      1359872
+    ]
+  },
+  "1948253F-427B-159B-EC41-61A10B7AAF96": {
+    "data": {
+      "seed": 22152
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      16384
+    ]
+  },
+  "1974A53C-403F-8D92-933E-C1B829319F0D": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -1130496,
+      933888
+    ]
+  },
+  "1A4385A5-4D5D-5766-47D9-ACB3096B3139": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      1228800,
+      -966656
+    ]
+  },
+  "1AE7CE5C-4743-0D4A-EDBE-279A2E7B89AE": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      1392640,
+      -802816
+    ]
+  },
+  "1B16D54F-4C3E-63E8-B9D9-CC8614E8DBA1": {
+    "data": {
+      "seed": 13049
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -262144,
+      32768
+    ]
+  },
+  "1C430A8B-485D-C822-F8BC-6492D6C250E4": {
+    "data": {
+      "seed": 13394
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      540672,
+      1376256
+    ]
+  },
+  "1CBF9240-4854-C7B1-1C07-59AF6E83A9BB": {
+    "data": {
+      "seed": 7258
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -262144,
+      -32768
+    ]
+  },
+  "1D3DA554-469F-E872-9C40-E18D7C5403F8": {
+    "data": {
+      "seed": 13102
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      163840
+    ]
+  },
+  "1D6F8A0C-46DB-4F98-137B-29954CE7C8E6": {
+    "data": {
+      "seed": 7351
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      -1261568
+    ]
+  },
+  "1D962806-4D2E-9E31-AD4B-08BE6F5BE57D": {
+    "data": {
+      "seed": 30209
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      1376256
+    ]
+  },
+  "202A5A71-4DF8-3CA7-C973-78B74D336F40": {
+    "data": {
+      "seed": 16188
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -819200,
+      442368
+    ]
+  },
+  "202FA597-4EBE-7F87-0024-E2889E5F9BD6": {
+    "facing": 0,
+    "kind": "RichMegaResourceA",
+    "player": 1,
+    "position": [
+      507904,
+      0
+    ]
+  },
+  "208BF916-4957-9805-7B83-418DDB00FDBF": {
+    "data": {
+      "seed": 17827
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      -442368
+    ]
+  },
+  "2108DD62-4D19-EB39-EC3D-19B689F68CFE": {
+    "data": {
+      "seed": 11356
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      -1376256
+    ]
+  },
+  "21D1CA34-4CBE-A289-B9FB-839A382B931B": {
+    "data": {
+      "seed": 10328
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      802816
+    ]
+  },
+  "21E65742-4193-DFF8-4AA5-4D8CFBA67730": {
+    "data": {
+      "seed": 3667
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -98304,
+      -1261568
+    ]
+  },
+  "221D2063-45A6-673B-8AA2-549C0F622B2D": {
+    "data": {
+      "seed": 19610
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -655360,
+      -81920
+    ]
+  },
+  "22A1D2BB-47A7-EB40-CD1E-D3951F30D9F4": {
+    "data": {
+      "seed": 27872
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -819200,
+      -442368
+    ]
+  },
+  "23DD2FB3-4E18-161C-4AF4-67BDA41CC336": {
+    "data": {
+      "seed": 26420
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -425984,
+      32768
+    ]
+  },
+  "2406A537-4A9A-28D8-8782-5180658728FB": {
+    "data": {
+      "seed": 30470
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      720896
+    ]
+  },
+  "244E6C1B-4C35-3857-18A8-12A1E41C4812": {
+    "data": {
+      "seed": 19610
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      65536
+    ]
+  },
+  "24958C01-4EBA-B6F9-7526-4F8048CFA602": {
+    "data": {
+      "seed": 4860
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      753664
+    ]
+  },
+  "24CB76EB-492C-E7B2-F4DD-E4ABC05EE1CB": {
+    "data": {
+      "seed": 13233
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -327680,
+      16384
+    ]
+  },
+  "25156F82-42D1-48F8-FBC8-A582FE69342E": {
+    "data": {
+      "seed": 3667
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      1261568
+    ]
+  },
+  "2561B2F9-453E-77FD-0145-D5AE562D6192": {
+    "data": {
+      "seed": 4940
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -737280,
+      835584
+    ]
+  },
+  "2896387C-4A3D-C5BE-5D3A-21851A407EF1": {
+    "data": {
+      "seed": 23835
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      1343488
+    ]
+  },
+  "297636C6-4315-0435-9759-43AC6CEB7921": {
+    "data": {
+      "seed": 16067
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -16384
+    ]
+  },
+  "29B5489E-4B82-BF48-896D-9C869429FD9B": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      1196032,
+      -1327104
+    ]
+  },
+  "29D6A5E5-46C5-0A56-720A-858BCA7B16D5": {
+    "data": {
+      "seed": 26463
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -737280,
+      704512
+    ]
+  },
+  "2A866627-42F7-B00A-EC59-DCAE11890D30": {
+    "data": {
+      "seed": 7525
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      49152
+    ]
+  },
+  "2A99AF1F-4251-BFB0-B92D-22B26C5F9A2E": {
+    "data": {
+      "seed": 31488
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -737280,
+      -835584
+    ]
+  },
+  "2ABCC8FE-49CE-52F3-1D7C-70A57A446E23": {
+    "data": {
+      "seed": 29265
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -81920,
+      1261568
+    ]
+  },
+  "2C6913E7-43E5-5AC6-4EA8-27B3B7D0F3D1": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      1392640,
+      802816
+    ]
+  },
+  "2EAC2210-45A7-727E-FA1E-54966CAAFA39": {
+    "data": {
+      "seed": 403
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      475136,
+      1310720
+    ]
+  },
+  "2F676749-4B8B-D182-D713-F3B6BB659859": {
+    "data": {
+      "seed": 403
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      -1343488
+    ]
+  },
+  "2FD5569B-45BB-DEF4-9029-E58EF23EAE12": {
+    "data": {
+      "seed": 22842
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -851968
+    ]
+  },
+  "3030A8A5-4BA0-DE60-7E19-889B760EB0B0": {
+    "data": {
+      "seed": 27863
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -737280,
+      442368
+    ]
+  },
+  "30775DE1-4A0E-4394-E302-C7ACD23A5C1B": {
+    "data": {
+      "seed": 7536
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -950272,
+      507904
+    ]
+  },
+  "3080D52F-4785-15C7-80F7-0E961DF28394": {
+    "data": {
+      "seed": 2308
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -409600,
+      49152
+    ]
+  },
+  "30A01DA0-450E-F108-FE29-17801587CF7C": {
+    "data": {
+      "seed": 403
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      32768,
+      -1245184
+    ]
+  },
+  "30DA68C9-4967-362C-8D99-BBAF46D37F11": {
+    "data": {
+      "seed": 8928
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      884736
+    ]
+  },
+  "31142A1E-4D89-898D-92DF-0EAD3A529C9D": {
+    "data": {
+      "seed": 19566
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      -1294336
+    ]
+  },
+  "31CD33A4-4457-C01C-4BE0-69B1449DAE3C": {
+    "data": {
+      "seed": 7308
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      1376256
+    ]
+  },
+  "325ACBA0-4190-C4D4-2A1B-D3963C77B18C": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -393216,
+      -917504
+    ]
+  },
+  "34A15034-4DB2-9CEB-880E-8EB90A284389": {
+    "facing": 5624683,
+    "kind": "Wellspring1v1",
+    "player": 0,
+    "position": [
+      550342,
+      503585
+    ]
+  },
+  "351D7236-49DC-3FF6-97E2-FEBE251B7C03": {
+    "data": {
+      "seed": 28032
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -933888,
+      475136
+    ]
+  },
+  "352E051D-45F9-AD7C-18A6-1C8022997DFD": {
+    "data": {
+      "seed": 25035
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -376832,
+      -49152
+    ]
+  },
+  "359D088A-4C84-0C23-7710-86A0FE12C036": {
+    "data": {
+      "seed": 8710
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -442368,
+      -49152
+    ]
+  },
+  "35AA219C-449A-3BCF-D410-E083E3723B74": {
+    "data": {
+      "seed": 6083
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -655360,
+      81920
+    ]
+  },
+  "37C14934-4887-BD25-51A6-00801E7DD8E7": {
+    "data": {
+      "seed": 23457
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      507904,
+      -1376256
+    ]
+  },
+  "38540B84-4D18-98F4-1690-64BA18FB8D39": {
+    "data": {
+      "seed": 19872
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      16384,
+      -1392640
+    ]
+  },
+  "3B75A81B-4C2B-B09E-C351-99A975F0E282": {
+    "data": {
+      "seed": 6955
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      851968
+    ]
+  },
+  "3BADEDE0-4970-8A6B-508E-1F805988EEE7": {
+    "data": {
+      "seed": 28863
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      98304
+    ]
+  },
+  "3C8378ED-418E-2908-97C5-A68BC4798418": {
+    "data": {
+      "seed": 59
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -884736,
+      -1015808
+    ]
+  },
+  "3C8A6A45-43A2-0F9D-6C4B-E5AD673869AE": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -606208,
+      770048
+    ]
+  },
+  "3CF8BE93-43C9-78C2-7F1B-0AB094E1ED88": {
+    "data": {
+      "seed": 26909
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -966656,
+      -524288
+    ]
+  },
+  "3D38BC50-43BC-3737-C57E-4B8C2141746F": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      196608,
+      1572864
+    ]
+  },
+  "3F45F39C-439E-C109-5B2E-C4BB4B9B208A": {
+    "data": {
+      "seed": 4605
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -1015808
+    ]
+  },
+  "3F54F588-4E37-6AA5-9164-30B318BEA088": {
+    "data": {
+      "seed": 16336
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      -49152
+    ]
+  },
+  "41605D89-408B-94EF-9993-0BB5997EB74D": {
+    "data": {
+      "seed": 3667
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      1261568
+    ]
+  },
+  "4261261A-4651-A154-1309-CE9E3B2C612F": {
+    "data": {
+      "seed": 6083
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      65536
+    ]
+  },
+  "4329C8EE-42F4-B336-B920-33BB05DAA3E3": {
+    "data": {
+      "seed": 10039
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -802816,
+      458752
+    ]
+  },
+  "43522CB3-4821-30D4-99F5-309AF6546341": {
+    "data": {
+      "seed": 4432
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      -1441792
+    ]
+  },
+  "43E46C1B-449B-9AF0-41AF-4BBA04D1CF4A": {
+    "data": {
+      "seed": 5306
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -425984,
+      -32768
+    ]
+  },
+  "44180E12-4413-A1F9-1947-838F96EC0A3A": {
+    "data": {
+      "seed": 31658
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      -1261568
+    ]
+  },
+  "46A34EBD-4E57-AAE3-B1A9-70B2F74C2E16": {
+    "data": {
+      "seed": 19970
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      1343488
+    ]
+  },
+  "46B11753-4583-4E94-2890-92B3B0CFA9D6": {
+    "data": {
+      "seed": 23050
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -802816,
+      1015808
+    ]
+  },
+  "4AE9E5B1-43C6-1DCE-7996-7BA8B78E3831": {
+    "data": {
+      "seed": 12030
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      -1359872
+    ]
+  },
+  "4B08A84D-4BDA-08A7-9194-0481DE195F15": {
+    "data": {
+      "seed": 29384
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      -1327104
+    ]
+  },
+  "4B550DBA-48FF-C2BE-49DF-ABA2CE40DA00": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -1081344,
+      1392640
+    ]
+  },
+  "4C0E1208-4E47-CD4A-D087-FFBB0DD3B2DE": {
+    "data": {
+      "seed": 18732
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      1376256
+    ]
+  },
+  "4C77BA77-4DD5-9EC8-DCC6-539517B337F6": {
+    "data": {
+      "seed": 28970
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      819200
+    ]
+  },
+  "4D346369-42FE-72DD-AB64-C3B1B06539FC": {
+    "data": {
+      "seed": 31350
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -81920,
+      -1228800
+    ]
+  },
+  "4F861E99-4FB7-5FBB-2F65-D4A566F38081": {
+    "data": {
+      "seed": 16487
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      -1327104
+    ]
+  },
+  "4FBC1836-49A1-1354-3D38-91A8ABD30E8E": {
+    "data": {
+      "seed": 31162
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      1228800
+    ]
+  },
+  "51678689-440C-842D-FB8E-74A23A1FF7AB": {
+    "data": {
+      "seed": 20299
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      -65536
+    ]
+  },
+  "51B2D5C6-4D09-6DD9-713E-36AF786F5725": {
+    "data": {
+      "seed": 13102
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      163840
+    ]
+  },
+  "534E2754-47B4-8D22-F31B-9C86786C27A9": {
+    "data": {
+      "seed": 22842
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      819200
+    ]
+  },
+  "534F0892-488A-E58E-FA85-F9AA1A4D466E": {
+    "data": {
+      "seed": 16056
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      -1277952
+    ]
+  },
+  "538D31E6-462C-D3CE-FF31-369B41E0393F": {
+    "data": {
+      "seed": 27892
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      -32768
+    ]
+  },
+  "54806545-4B99-8E92-F952-769817B3BCD3": {
+    "data": {
+      "seed": 11090
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -802816,
+      -983040
+    ]
+  },
+  "55188701-4453-1367-59A5-F7983D5CA9A7": {
+    "data": {
+      "seed": 22541
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -65536,
+      1245184
+    ]
+  },
+  "55839917-46A8-D277-4EA1-3C864AD86D44": {
+    "data": {
+      "seed": 17134
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      0
+    ]
+  },
+  "55B18386-440D-97C2-493D-75B063E08D8F": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -884736,
+      -1556480
+    ]
+  },
+  "55B67156-48D3-8173-79AC-258FE4E60ED6": {
+    "data": {
+      "seed": 13886
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -868352,
+      -1015808
+    ]
+  },
+  "58013A51-47F4-0269-DD14-90A244779015": {
+    "data": {
+      "seed": 22541
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -98304,
+      -1245184
+    ]
+  },
+  "58BCA79F-44E8-E798-0635-C388AC75B8CA": {
+    "data": {
+      "seed": 1122
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -933888,
+      1015808
+    ]
+  },
+  "59B7EDB6-464F-D7BE-432D-AC84B4A0D5F7": {
+    "data": {
+      "seed": 8620
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      786432
+    ]
+  },
+  "59BA8991-48B1-E3ED-67E6-9E8BDE641956": {
+    "data": {
+      "seed": 9843
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      1327104
+    ]
+  },
+  "5A6F6A05-42A2-97EA-B30F-98BCA22F424B": {
+    "data": {
+      "seed": 10383
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      -1310720
+    ]
+  },
+  "5A98CED9-41BA-0CC5-013C-28B295D3B8AE": {
+    "data": {
+      "seed": 13394
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      -1409024
+    ]
+  },
+  "5AB657F2-4638-0505-024F-F3B2E4E242BB": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      770048,
+      720896
+    ]
+  },
+  "5ACECDA3-4B8F-F763-60F7-9EA086DEC50B": {
+    "data": {
+      "seed": 32539
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      1277952
+    ]
+  },
+  "5CBB88DA-458D-1A0E-65A5-CAA2D37E4D44": {
+    "data": {
+      "seed": 6491
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      1310720
+    ]
+  },
+  "5D45725A-4897-5D4A-F073-CD894EB8053A": {
+    "data": {
+      "seed": 7525
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      -49152
+    ]
+  },
+  "5DBE597C-42E5-9B49-0614-E5BF5FEAA1C0": {
+    "data": {
+      "seed": 7638
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -884736,
+      1015808
+    ]
+  },
+  "5E4C4A16-48FF-F478-858C-93B01F03E9B3": {
+    "data": {
+      "seed": 22334
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -425984,
+      -16384
+    ]
+  },
+  "5F8FC53E-4693-0D3E-EF4F-26821D13FDE2": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -345228,
+      1461406
+    ]
+  },
+  "5FFB7C24-4B2A-A504-115D-E88E00BD4EF9": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -1196032,
+      -753664
+    ]
+  },
+  "616BE894-4FB0-FEED-CA18-9FAC34FB53D8": {
+    "data": {
+      "seed": 13094
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -786432
+    ]
+  },
+  "619B4095-45AB-CFC0-2A71-68A509502B03": {
+    "data": {
+      "seed": 24471
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -393216,
+      16384
+    ]
+  },
+  "61AC1218-46BB-B3DD-6562-0EB6B5C7EB47": {
+    "data": {
+      "seed": 22322
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      -16384
+    ]
+  },
+  "61EC9F3F-45E1-F253-BE54-22A172CB45CE": {
+    "data": {
+      "seed": 22152
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -16384
+    ]
+  },
+  "620C0EA6-4021-31D0-9E72-D7A0EE4AF1A2": {
+    "data": {
+      "seed": 16487
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      1310720
+    ]
+  },
+  "6398D1D3-469D-9B7A-D417-D1817A29499C": {
+    "data": {
+      "seed": 13049
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      32768
+    ]
+  },
+  "646D714E-441C-4E64-3378-D3945B536B3B": {
+    "data": {
+      "seed": 3898
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      -131072
+    ]
+  },
+  "64786D82-48A2-1FF9-E53A-A88AA46D249A": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -606208,
+      -770048
+    ]
+  },
+  "6781DAA6-4FA9-A090-3932-798306DAF35C": {
+    "data": {
+      "seed": 12550
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      -1277952
+    ]
+  },
+  "6795476B-499B-E238-0917-F98FB2AFFFF3": {
+    "data": {
+      "seed": 24471
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -360448,
+      16384
+    ]
+  },
+  "67A81267-4621-DB89-90C3-82989A35A8DC": {
+    "data": {
+      "seed": 12268
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      163840
+    ]
+  },
+  "683C43C2-487E-6BEA-BA76-F0B1FB9A9AAB": {
+    "data": {
+      "seed": 13094
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      753664
+    ]
+  },
+  "68B41EFC-4900-2B61-AD4D-DEA4472F0B7C": {
+    "data": {
+      "seed": 31027
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      1294336
+    ]
+  },
+  "691B8D51-47DE-6C9D-5414-A8B0494DDF4E": {
+    "data": {
+      "seed": 29265
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      -1261568
+    ]
+  },
+  "6A463C50-46B7-C553-AEEB-B8946FEB85F1": {
+    "data": {
+      "seed": 8710
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -344064,
+      49152
+    ]
+  },
+  "6AFF0133-4F88-67E6-A69A-EA9488C00D59": {
+    "data": {
+      "seed": 262
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      -65536
+    ]
+  },
+  "6B2D014A-4028-2A22-CA6A-F6811CD5C594": {
+    "data": {
+      "seed": 10210
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -884736,
+      442368
+    ]
+  },
+  "6BCDD5B6-4D42-BF9A-A865-C3A2A0AEE885": {
+    "data": {
+      "seed": 13912
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      -1425408
+    ]
+  },
+  "6BF7237B-4E06-143A-C0FB-F281D322387A": {
+    "data": {
+      "seed": 27863
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -737280,
+      -475136
+    ]
+  },
+  "6CE31D3A-40C9-CC5A-D959-C5A11DE128AB": {
+    "data": {
+      "seed": 18760
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -720896
+    ]
+  },
+  "6DEFD7B5-4D4C-6AF9-EF30-EFA71FD8357F": {
+    "data": {
+      "seed": 31064
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      131072
+    ]
+  },
+  "6F354F8A-43F6-870E-9A61-E28C5313C3C5": {
+    "data": {
+      "seed": 12940
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -868352,
+      983040
+    ]
+  },
+  "6F381B98-4A90-8F5F-4C5C-4A9092E9120D": {
+    "data": {
+      "seed": 20849
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      0
+    ]
+  },
+  "7027D0F2-4DA5-575B-0886-9EA9EAD62B94": {
+    "data": {
+      "seed": 6139
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -835584,
+      1015808
+    ]
+  },
+  "7038802E-413A-0053-9241-04A8CB7400D2": {
+    "facing": 1615898891,
+    "kind": "Wellspring1v1",
+    "player": 0,
+    "position": [
+      515324,
+      -511520
+    ]
+  },
+  "70A1B914-4175-ED33-05C1-F5BF22CE3843": {
+    "data": {
+      "seed": 31064
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      -147456
+    ]
+  },
+  "70C4D498-40F0-D138-A112-31B039CDE769": {
+    "data": {
+      "seed": 18862
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      -1409024
+    ]
+  },
+  "71041638-4B64-5D9C-C76D-1AB49949B563": {
+    "data": {
+      "seed": 8560
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      1245184
+    ]
+  },
+  "72B8AFBC-4D1A-159D-E571-AF926602412C": {
+    "data": {
+      "seed": 10001
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -737280,
+      -704512
+    ]
+  },
+  "73440DA7-450A-4C8C-EEAF-6E8D4B7AC9B6": {
+    "data": {
+      "seed": 15025
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      802816
+    ]
+  },
+  "73560FDA-4954-4696-794D-D593B2118EE7": {
+    "data": {
+      "seed": 13233
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      16384
+    ]
+  },
+  "735874BF-47AD-B13C-6CFC-9E935EF79856": {
+    "data": {
+      "seed": 31658
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      507904,
+      1310720
+    ]
+  },
+  "738E3F43-4327-E61F-0628-E5BF13B83966": {
+    "data": {
+      "seed": 95
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      393216,
+      -1294336
+    ]
+  },
+  "763E511A-407B-A7EA-9AE8-49BD60FF6E1A": {
+    "data": {
+      "seed": 5306
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      32768
+    ]
+  },
+  "78DCA8DA-4657-A2F0-487C-818E204B81F1": {
+    "data": {
+      "seed": 7181
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      -32768
+    ]
+  },
+  "7933FDD9-4416-F43D-3411-4F9BC622F31F": {
+    "data": {
+      "seed": 25035
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      49152
+    ]
+  },
+  "7A548C97-47C0-2F02-369A-E892F2B78FC1": {
+    "data": {
+      "seed": 2353
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      147456
+    ]
+  },
+  "7A5D0A96-48CB-2BE0-6580-BFA8FE50E85E": {
+    "data": {
+      "seed": 16489
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -737280,
+      475136
+    ]
+  },
+  "7C4B1A9D-46A4-899A-92A6-F8BDFD495D9B": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      196608,
+      -1572864
+    ]
+  },
+  "7CB0248C-49F6-5946-CACB-59A131DCB66B": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -1081344,
+      -1392640
+    ]
+  },
+  "7D00A914-483B-6877-0711-46B5FA443B27": {
+    "data": {
+      "seed": 17134
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      0
+    ]
+  },
+  "7D494EA1-4C32-9AA3-5CB1-0A95C88345E5": {
+    "data": {
+      "seed": 17493
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -770048,
+      -442368
+    ]
+  },
+  "7EAE7B1D-4A07-9A67-0BF5-0B805BFEF959": {
+    "data": {
+      "seed": 23994
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -753664
+    ]
+  },
+  "7F2F59E5-40CD-C02F-39A1-CEA50E44EC8C": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -180224,
+      1376256
+    ]
+  },
+  "806FF2C2-424F-16A6-5F9B-4E8CED2C76B2": {
+    "data": {
+      "seed": 7181
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -425984,
+      16384
+    ]
+  },
+  "8121E97B-4E88-C381-43C0-B39F505B419C": {
+    "data": {
+      "seed": 17493
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      442368
+    ]
+  },
+  "8153AA27-4549-7C43-1944-D5AF4C0747B9": {
+    "data": {
+      "seed": 8620
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -802816
+    ]
+  },
+  "83CBA359-46E5-A8FE-5D47-B1805E63104E": {
+    "data": {
+      "seed": 19952
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -49152
+    ]
+  },
+  "8442C379-4BAD-EDA2-0934-E698C359E441": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -1196032,
+      753664
+    ]
+  },
+  "8581D5DC-4EEC-3E0C-560A-CBA3E1B19580": {
+    "data": {
+      "seed": 3984
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -884736,
+      983040
+    ]
+  },
+  "86326B9A-4A89-64C6-58D9-449BFC95F937": {
+    "data": {
+      "seed": 19240
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      32768
+    ]
+  },
+  "86AD9A23-43AA-A480-0AE4-88B61295C2E4": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -884736,
+      1392640
+    ]
+  },
+  "86BCBE4A-4C07-A961-F292-779FD8DF0C65": {
+    "data": {
+      "seed": 12937
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      -1294336
+    ]
+  },
+  "8742E780-4317-341E-F81B-2392F7BB293B": {
+    "data": {
+      "seed": 25035
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      49152
+    ]
+  },
+  "874A72A8-4C32-A62C-EB76-5E90E9ED700D": {
+    "data": {
+      "seed": 28032
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -950272,
+      -507904
+    ]
+  },
+  "8AE45C3C-4B45-46D9-7BA6-32AF17C76AD5": {
+    "data": {
+      "seed": 23316
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      -16384
+    ]
+  },
+  "8B4A8E04-4A8C-41D2-4BEE-4DAB8C994B9A": {
+    "data": {
+      "seed": 7871
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      1441792
+    ]
+  },
+  "8D745283-4A44-7F87-EA67-D0B19F95EF77": {
+    "data": {
+      "seed": 20103
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      49152
+    ]
+  },
+  "8E2C12CA-4E14-5436-A9B3-D4958866F0C1": {
+    "data": {
+      "seed": 21126
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      1310720
+    ]
+  },
+  "8E908070-4BB4-F26D-FB7D-E8B3D93A3926": {
+    "data": {
+      "seed": 8560
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      -1261568
+    ]
+  },
+  "8EA2A48C-4B0F-51C6-C543-749F19ADA8F8": {
+    "data": {
+      "seed": 1718
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      -1343488
+    ]
+  },
+  "8F4CD4B1-4806-A548-312C-49A1C31DFE21": {
+    "data": {
+      "seed": 6139
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -868352,
+      -983040
+    ]
+  },
+  "8F7553A8-4150-EF1F-0806-A48B1C47E35D": {
+    "data": {
+      "seed": 5306
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -475136,
+      16384
+    ]
+  },
+  "8FA501BE-4B57-FC04-E35E-7EBE09806F75": {
+    "data": {
+      "seed": 31565
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      81920
+    ]
+  },
+  "90BA59A1-4620-D9D1-F371-F2A8E5FBF953": {
+    "data": {
+      "seed": 14491
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      770048
+    ]
+  },
+  "90D27F9D-46F2-C5A2-EDF2-E1A423DB5BDE": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -884736,
+      1556480
+    ]
+  },
+  "91862464-4A9B-7848-7E9F-63BA7E4E7F78": {
+    "data": {
+      "seed": 379
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      -16384
+    ]
+  },
+  "91C335CB-4407-882D-DAB4-7A9C9AE01B64": {
+    "data": {
+      "seed": 26463
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -688128
+    ]
+  },
+  "9201E0AF-4294-C008-3298-C28311A27CB6": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar2",
+    "player": 31,
+    "position": [
+      1065252,
+      7500
+    ]
+  },
+  "942BD28F-414B-5BB3-3510-EC9486915888": {
+    "data": {
+      "seed": 7638
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -917504,
+      -999424
+    ]
+  },
+  "94BDE00D-40F8-CE30-EAD4-6FA383731234": {
+    "data": {
+      "seed": 22152
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      16384
+    ]
+  },
+  "9706E24E-4F3D-3EA1-8AA4-A69050534DCE": {
+    "data": {
+      "seed": 24309
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      1261568
+    ]
+  },
+  "9728F94F-403D-9FDD-7EDC-3F84157317A6": {
+    "data": {
+      "seed": 13852
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -360448,
+      32768
+    ]
+  },
+  "984495C4-47B7-7EF0-3FFB-2086E8C37B63": {
+    "data": {
+      "seed": 31162
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -65536,
+      -1245184
+    ]
+  },
+  "98485111-4397-E80B-9F9C-80BDA2D45AE3": {
+    "data": {
+      "seed": 31658
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      -1228800
+    ]
+  },
+  "991640EA-440D-6AB9-5036-3FB38188CA57": {
+    "data": {
+      "seed": 16056
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      1261568
+    ]
+  },
+  "991AA673-4629-F797-6D84-209DDB482978": {
+    "data": {
+      "seed": 19566
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      1277952
+    ]
+  },
+  "99CEB618-4498-C70F-E27D-E8A9BDDFB0A1": {
+    "data": {
+      "seed": 11266
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -884736
+    ]
+  },
+  "99EB9F61-445C-5C83-63A1-E184E3A1E0FD": {
+    "data": {
+      "seed": 28970
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -851968
+    ]
+  },
+  "99FF659A-4DE2-1E13-753C-939235BD71F0": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 2,
+    "position": [
+      -884736,
+      -1392640
+    ]
+  },
+  "9A3892A0-4676-731D-DD0F-27A7C6A7DA21": {
+    "data": {
+      "seed": 30797
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -917504,
+      999424
+    ]
+  },
+  "9A7CC498-40AA-901F-7E97-5B88A79F5743": {
+    "data": {
+      "seed": 95
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      1261568
+    ]
+  },
+  "9B4B21AB-4A97-DE48-2C6A-DCAEAF3DB45E": {
+    "data": {
+      "seed": 32539
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      -1294336
+    ]
+  },
+  "9C0AD833-4972-FEAD-5782-E0B83810FE01": {
+    "data": {
+      "seed": 7181
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -458752,
+      16384
+    ]
+  },
+  "9D4BBD28-428C-1CE7-CA73-E7B936F71932": {
+    "data": {
+      "seed": 7258
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -311296,
+      32768
+    ]
+  },
+  "9F08AEE2-40C8-5163-E08E-BCA756D80BE6": {
+    "data": {
+      "seed": 21486
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -933888,
+      -475136
+    ]
+  },
+  "9FE41565-4586-795F-7A75-86B29376C693": {
+    "data": {
+      "seed": 7956
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      32768
+    ]
+  },
+  "9FEB8A8B-4DB5-8DEE-F828-C5A4A4E24E5F": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar1",
+    "player": 31,
+    "position": [
+      -948229,
+      1240
+    ]
+  },
+  "A0039FFB-4903-88F8-9E79-FF82A6D9A623": {
+    "data": {
+      "seed": 22144
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      688128
+    ]
+  },
+  "A1B52059-4B22-5983-80B1-229A4F7F7F0B": {
+    "data": {
+      "seed": 16056
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      1228800
+    ]
+  },
+  "A30D68C3-4C92-1C0A-174D-97B3E2EECF88": {
+    "data": {
+      "seed": 24522
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -442368,
+      -32768
+    ]
+  },
+  "A4C18B6A-4A31-8466-94C3-92ADD66A8034": {
+    "data": {
+      "seed": 13233
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -393216,
+      -16384
+    ]
+  },
+  "A5B089B0-48D1-A216-979D-D4B40B1E237C": {
+    "data": {
+      "seed": 7147
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      1294336
+    ]
+  },
+  "A72758A8-4F7B-D3BB-D464-1699A3D2D8BE": {
+    "data": {
+      "seed": 21486
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -901120,
+      475136
+    ]
+  },
+  "A78A72F9-4762-8499-0A7F-AB8C3DAFF4A7": {
+    "data": {
+      "seed": 26420
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -360448,
+      -32768
+    ]
+  },
+  "A7B7FDBF-4A55-2456-BD63-9EB5D427C460": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      770048,
+      -720896
+    ]
+  },
+  "A82AF43B-4529-0473-8A6E-9590CB19E1B8": {
+    "data": {
+      "seed": 21271
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      1392640
+    ]
+  },
+  "A9CA68A3-4E1F-767E-6618-A5A8155D5103": {
+    "data": {
+      "seed": 3974
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      851968
+    ]
+  },
+  "AA0A367A-4D61-2B8A-4351-589EBACB0E5B": {
+    "data": {
+      "seed": 307
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      442368,
+      -1376256
+    ]
+  },
+  "AACBD635-4F58-D022-7159-3085A541CD9A": {
+    "data": {
+      "seed": 26253
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -901120,
+      983040
+    ]
+  },
+  "AB507372-46D2-7F5B-576A-DEA1DA189A68": {
+    "data": {
+      "seed": 17717
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      507904,
+      -1310720
+    ]
+  },
+  "AD1CB922-42CF-2911-2598-8997E209B3FA": {
+    "data": {
+      "seed": 12797
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -933888,
+      983040
+    ]
+  },
+  "AD576850-461D-E2DD-F3DE-B29697F7880D": {
+    "data": {
+      "seed": 24591
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -32768,
+      1359872
+    ]
+  },
+  "AD82DCE2-46AF-9D88-69BB-909C0EBEEA4C": {
+    "data": {
+      "seed": 29915
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -655360,
+      16384
+    ]
+  },
+  "AE05B145-4C77-7B75-3E4B-94834426E49E": {
+    "data": {
+      "seed": 4935
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -393216,
+      -32768
+    ]
+  },
+  "AF6593F1-4CE4-61BA-FB33-2AB2B56F28C2": {
+    "data": {
+      "seed": 10001
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      655360
+    ]
+  },
+  "AF7CFE38-4966-FD28-D398-A58F74B2BE62": {
+    "data": {
+      "seed": 10039
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -835584,
+      -458752
+    ]
+  },
+  "AF9B623F-4CFD-F4C0-E43F-7C932DFFD7DE": {
+    "data": {
+      "seed": 13852
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -393216,
+      32768
+    ]
+  },
+  "B1A9698B-4D6A-EB1E-6B3E-7BA2BBBD175C": {
+    "data": {
+      "seed": 31027
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      -1310720
+    ]
+  },
+  "B1BF94B7-4BDF-A2AF-85F7-24BFBCA672F1": {
+    "data": {
+      "seed": 14565
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      -1409024
+    ]
+  },
+  "B3AEDCBB-43AB-9920-D050-DDB8B64A263D": {
+    "data": {
+      "seed": 4553
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -851968,
+      442368
+    ]
+  },
+  "B3EEA619-4112-4E2B-2699-4BA775F6EC91": {
+    "data": {
+      "seed": 31027
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      1343488
+    ]
+  },
+  "B5AE0F19-4B9E-B392-A3F7-3DB700CBF3FD": {
+    "data": {
+      "seed": 18760
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      688128
+    ]
+  },
+  "B62B2D69-47E3-7552-59EC-23A6EDC245BC": {
+    "data": {
+      "seed": 32539
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      -1343488
+    ]
+  },
+  "B778532F-4D87-A39D-C702-2C95EB28C218": {
+    "data": {
+      "seed": 26420
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -442368,
+      32768
+    ]
+  },
+  "B96ECCB3-4B4A-0885-189E-0EA0A7CC276C": {
+    "data": {
+      "seed": 31027
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      475136,
+      -1376256
+    ]
+  },
+  "B99070DB-437E-90E0-5F83-1B86954948F7": {
+    "data": {
+      "seed": 14565
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      393216,
+      1343488
+    ]
+  },
+  "BAA1EB6D-4064-EAB9-5D58-5DBE9CA29CEF": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -180224,
+      -1376256
+    ]
+  },
+  "BADE34BD-4780-38C2-D7BB-9BB78A9B1694": {
+    "data": {
+      "seed": 19162
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -81920,
+      1228800
+    ]
+  },
+  "BB4F0EFD-4840-B8EE-4FAA-80918FC02990": {
+    "data": {
+      "seed": 31064
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -704512,
+      114688
+    ]
+  },
+  "BB9C0A68-4451-254B-8794-1399AF02722F": {
+    "data": {
+      "seed": 14398
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -802816,
+      983040
+    ]
+  },
+  "BD3500B1-4EF0-2EF7-1275-3EACBE61D98A": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      1228800,
+      966656
+    ]
+  },
+  "BD641FC3-463E-A8A0-150C-FB8B5E163EAC": {
+    "data": {
+      "seed": 11356
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      376832,
+      1310720
+    ]
+  },
+  "BD71176A-40A9-C2DE-AF53-C38454365203": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      -1130496,
+      -933888
+    ]
+  },
+  "BF1BDBEF-4C12-DD8D-404C-B881B9265BF6": {
+    "data": {
+      "seed": 19970
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      376832,
+      -1310720
+    ]
+  },
+  "BF411C42-4904-EEE8-4C04-0A8E6D80D619": {
+    "data": {
+      "seed": 25468
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -360448,
+      -16384
+    ]
+  },
+  "BF63395A-438C-9CBA-5410-0B825565AC8E": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged1",
+    "player": 31,
+    "position": [
+      -948556,
+      1997
+    ]
+  },
+  "C0F5EC75-4511-5929-0DAA-358BB221BFA5": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged0",
+    "player": 31,
+    "position": [
+      133624,
+      18303
+    ]
+  },
+  "C10771B1-436A-8C82-3524-B7B153BA398A": {
+    "data": {
+      "seed": 14871
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      1359872
+    ]
+  },
+  "C1A6BEC5-4273-15B0-35F4-5DBAED768063": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      966656,
+      -1458176
+    ]
+  },
+  "C2248C7A-404C-60CB-82C2-63BBCE2F3CCB": {
+    "data": {
+      "seed": 23050
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -835584,
+      -983040
+    ]
+  },
+  "C30EC8D4-4B69-D0C6-4AF9-4DBA972E3E7A": {
+    "data": {
+      "seed": 403
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -98304,
+      1261568
+    ]
+  },
+  "C3646D32-4175-04DD-A164-43AB04F17CD2": {
+    "data": {
+      "seed": 23328
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -737280,
+      -442368
+    ]
+  },
+  "C3D80A03-4DE2-524E-D17F-079A34219BB1": {
+    "data": {
+      "seed": 13886
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -835584,
+      983040
+    ]
+  },
+  "C489DC37-4C67-90F2-9574-FB92E5D03D7E": {
+    "data": {
+      "seed": 14626
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -49152,
+      1359872
+    ]
+  },
+  "C4945348-4EDF-860E-DAEC-72A3F863B3DA": {
+    "data": {
+      "seed": 8030
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -884736
+    ]
+  },
+  "C5B17ADB-443D-3AB8-A3CA-74A514113707": {
+    "data": {
+      "seed": 7308
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      -1359872
+    ]
+  },
+  "C868AE3A-483E-C7C3-F45A-22AFD6FBA7C2": {
+    "data": {
+      "seed": 14491
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -802816
+    ]
+  },
+  "C9040756-492D-6B8E-0ACF-D7B6ED05A439": {
+    "data": {
+      "seed": 4860
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -770048
+    ]
+  },
+  "C93C986F-48D2-2F4D-8C10-809FC6BE8039": {
+    "data": {
+      "seed": 19610
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      65536
+    ]
+  },
+  "C9839B32-4E3D-E6FC-9FD4-1F8D0E75084C": {
+    "data": {
+      "seed": 12030
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      1343488
+    ]
+  },
+  "CBC99B8A-4DD5-C8F2-04E4-5ABDD9FE5528": {
+    "data": {
+      "seed": 10210
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -917504,
+      -458752
+    ]
+  },
+  "CC2D8961-4E43-8F37-B1A1-60AF47DB1CDA": {
+    "data": {
+      "seed": 6608
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      -1359872
+    ]
+  },
+  "CD0CF63D-4D23-4A22-46C3-85AEA044971F": {
+    "data": {
+      "seed": 32539
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      1425408
+    ]
+  },
+  "CD4CCAA1-4FC3-4800-FEDA-F78559007A9D": {
+    "data": {
+      "seed": 30452
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      -1409024
+    ]
+  },
+  "CDE5B858-4048-A060-1604-64ACA3C5076C": {
+    "data": {
+      "seed": 14871
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      0,
+      -1376256
+    ]
+  },
+  "CDF942D6-4352-C35D-D98D-19BF2A0F2A53": {
+    "data": {
+      "seed": 22810
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -344064,
+      -49152
+    ]
+  },
+  "D11DFCEC-4E05-EEDD-95DE-38ABC6D7E877": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      622592,
+      -147456
+    ]
+  },
+  "D15D6400-424B-4EC7-08E9-FFB729270F8D": {
+    "data": {
+      "seed": 4553
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -901120,
+      -475136
+    ]
+  },
+  "D1AD6047-4A0E-9C98-C9A0-1ABF85406CF9": {
+    "data": {
+      "seed": 8322
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -933888,
+      -1015808
+    ]
+  },
+  "D2CF71B0-402D-4DA5-EE6B-8F9EA31951BF": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      966656,
+      1458176
+    ]
+  },
+  "D44376F3-4D84-1D81-3B84-999489ED87A7": {
+    "data": {
+      "seed": 20920
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      491520,
+      1409024
+    ]
+  },
+  "D48506EC-4822-BEC6-3420-D3B09EA92EC2": {
+    "data": {
+      "seed": 7351
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      1294336
+    ]
+  },
+  "D4FCB04A-48B8-0199-A9D2-28BB3E47A16B": {
+    "data": {
+      "seed": 13912
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      1261568
+    ]
+  },
+  "D5AAAB00-4186-EBF9-A927-339CD8AAF9E3": {
+    "data": {
+      "seed": 21126
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      540672,
+      -1376256
+    ]
+  },
+  "D602ADA4-4BF0-4BC2-4DC4-B8B0F22FA23F": {
+    "data": {
+      "seed": 22258
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -802816,
+      -458752
+    ]
+  },
+  "D68E4273-4926-189F-C697-68A842D7831B": {
+    "data": {
+      "seed": 12940
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -884736,
+      -983040
+    ]
+  },
+  "D6FACDE2-449E-1527-31FD-EBABDFFA7EF6": {
+    "data": {
+      "seed": 17126
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -327680,
+      -32768
+    ]
+  },
+  "D81CDD7B-46B3-9170-F1F3-3C8749E7C335": {
+    "data": {
+      "seed": 1718
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      1327104
+    ]
+  },
+  "D81FCA3E-4C85-13B3-3041-C4854209518E": {
+    "data": {
+      "seed": 22258
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -770048,
+      442368
+    ]
+  },
+  "D910613C-4606-7ED5-C77B-A7B95F7F8DA4": {
+    "data": {
+      "seed": 14398
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -835584,
+      -1015808
+    ]
+  },
+  "DB801BA8-4FE1-7298-9463-8996529F11E8": {
+    "data": {
+      "seed": 7311
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      1409024
+    ]
+  },
+  "DBD97FD5-488E-16B7-FB17-5B91FB165EC9": {
+    "facing": 0,
+    "kind": "_StormgateObjectiveSubmerged2",
+    "player": 31,
+    "position": [
+      1065951,
+      10375
+    ]
+  },
+  "DD87D0DB-4A1D-599D-F62C-BF9D4A1DE3E3": {
+    "data": {
+      "seed": 59
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -868352,
+      1015808
+    ]
+  },
+  "DD99B379-4CF9-3867-9526-CAAA2E06A659": {
+    "data": {
+      "seed": 23835
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      16384,
+      -1359872
+    ]
+  },
+  "E11AB9A7-4CB3-5670-19FA-EA9BEECDE901": {
+    "data": {
+      "seed": 31565
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      -98304
+    ]
+  },
+  "E410D077-460E-F58C-3739-7A9EE28EB5A1": {
+    "data": {
+      "seed": 30209
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      409600,
+      -1310720
+    ]
+  },
+  "E46E3DB2-4A74-7F9D-2CA9-6FB775BB56B7": {
+    "data": {
+      "seed": 24309
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      -1261568
+    ]
+  },
+  "E49787AE-4B44-0D9A-0FDF-909FD3B9F553": {
+    "data": {
+      "seed": 18331
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      1392640
+    ]
+  },
+  "E497E41D-443A-DE94-6D5E-D0A9F6E54018": {
+    "facing": 0,
+    "kind": "_StormgateObjective_TugOfWar0",
+    "player": 31,
+    "position": [
+      130568,
+      16819
+    ]
+  },
+  "E4BEA4A2-4203-1CC9-EE21-83B6E95A9832": {
+    "data": {
+      "seed": 9843
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      -1343488
+    ]
+  },
+  "E55B624F-4BC2-C022-2A9B-708F61288A00": {
+    "data": {
+      "seed": 19952
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -245760,
+      49152
+    ]
+  },
+  "E58289BE-4BE6-922A-DD3A-C98D83C98891": {
+    "data": {
+      "seed": 16721
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -655360
+    ]
+  },
+  "E82E9B32-489A-C549-C284-8592EB3A1950": {
+    "facing": 0,
+    "kind": "ResourceB_Generator_2x2",
+    "player": 1,
+    "position": [
+      1196032,
+      1327104
+    ]
+  },
+  "E86BE3B2-44A9-6635-0FAF-F5808A621747": {
+    "data": {
+      "seed": 16188
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -851968,
+      -442368
+    ]
+  },
+  "E8AA1D57-42B3-D079-49E0-E3A26CD30C29": {
+    "data": {
+      "seed": 7258
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -327680,
+      32768
+    ]
+  },
+  "E983AFE1-4318-A879-238F-A8980FF81FC3": {
+    "data": {
+      "seed": 16056
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      -1245184
+    ]
+  },
+  "E98EE630-47D6-66BE-AC44-80BAD5299B6D": {
+    "data": {
+      "seed": 23856
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -966656,
+      524288
+    ]
+  },
+  "EA1D636C-471A-C844-9830-DD8EC8E91019": {
+    "data": {
+      "seed": 29915
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      -32768
+    ]
+  },
+  "EA482858-4CCA-7EC3-D13C-7EABACDA4788": {
+    "data": {
+      "seed": 724
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -98304,
+      1245184
+    ]
+  },
+  "EDD50EBB-4C40-DF7C-A4A5-8FB6A0490398": {
+    "data": {
+      "seed": 96
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -917504,
+      458752
+    ]
+  },
+  "EDEE3678-4B79-4BD2-1780-17A449558A50": {
+    "data": {
+      "seed": 12937
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -49152,
+      1261568
+    ]
+  },
+  "EE635418-4E3F-034C-39E5-0D8095978F12": {
+    "data": {
+      "seed": 6491
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      393216,
+      -1343488
+    ]
+  },
+  "EE6BD384-44B0-81C3-A578-0F83837FB838": {
+    "data": {
+      "seed": 23457
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      524288,
+      1343488
+    ]
+  },
+  "EEF7F311-4BC3-94CD-ADF6-DCBCB418ED38": {
+    "data": {
+      "seed": 8560
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -32768,
+      -1261568
+    ]
+  },
+  "F1F0B0EB-491B-9282-9939-35A13ACB15BE": {
+    "data": {
+      "seed": 4940
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -688128
+    ]
+  },
+  "F2280536-47FA-E067-79CC-F4A02B8E0168": {
+    "data": {
+      "seed": 12268
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -671744,
+      -163840
+    ]
+  },
+  "F43ADEC6-4F2B-05C4-82A5-5C82B8D9ADF8": {
+    "data": {
+      "seed": 2329
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      425984,
+      -1343488
+    ]
+  },
+  "F43BE767-4B28-D663-F4C8-F3A3A31EE2B2": {
+    "data": {
+      "seed": 7147
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -16384,
+      -1310720
+    ]
+  },
+  "F622F648-4D46-9723-7A7F-1092968462B1": {
+    "data": {
+      "seed": 2329
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      458752,
+      1409024
+    ]
+  },
+  "F763BD05-4818-F997-E675-059658E45B0C": {
+    "data": {
+      "seed": 96
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -950272,
+      -475136
+    ]
+  },
+  "F7B68865-4135-C54F-FD67-12BFB490FFA8": {
+    "data": {
+      "seed": 5307
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -884736,
+      -442368
+    ]
+  },
+  "F7DBF760-407E-99ED-6154-6C87B76F99B9": {
+    "data": {
+      "seed": 23457
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      32768,
+      1245184
+    ]
+  },
+  "F7FD8CF9-4793-3794-19F1-2BAE65ECE4A7": {
+    "data": {
+      "seed": 10328
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -819200
+    ]
+  },
+  "F82485AB-4A85-2AAE-2379-31B6A0E0EE3E": {
+    "facing": 0,
+    "kind": "MegaResourceA",
+    "player": 1,
+    "position": [
+      -344064,
+      -1458176
+    ]
+  },
+  "F962F865-4607-2F17-9BE2-3C9B9D7F6C78": {
+    "data": {
+      "seed": 27872
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -770048,
+      475136
+    ]
+  },
+  "F9709F58-4E96-0E9E-5AFF-43BDF44D1AE8": {
+    "data": {
+      "seed": 20283
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -720896,
+      -163840
+    ]
+  },
+  "FA294157-4C9F-578B-4AC0-D99F932A0B78": {
+    "data": {
+      "seed": 31658
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      32768,
+      1228800
+    ]
+  },
+  "FAD33E69-460A-FE95-880D-ABAD7417FCC6": {
+    "data": {
+      "seed": 17717
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      32768,
+      -1228800
+    ]
+  },
+  "FB0515B2-4687-92E9-8BB9-1AB0F4E59FF1": {
+    "data": {
+      "seed": 22144
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -720896,
+      -720896
+    ]
+  },
+  "FB6BE1E7-406F-D989-4976-69B94F0F7D55": {
+    "data": {
+      "seed": 19223
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -278528,
+      -32768
+    ]
+  },
+  "FCA026D4-4751-E308-6070-6A8523B7301D": {
+    "data": {
+      "seed": 23457
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      -1261568
+    ]
+  },
+  "FD2901B4-411B-8301-8E01-EA839993E08C": {
+    "data": {
+      "seed": 10383
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      393216,
+      1294336
+    ]
+  },
+  "FD952086-474E-2E2C-0F59-DC95C5878552": {
+    "data": {
+      "seed": 19162
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      0,
+      -1228800
+    ]
+  },
+  "FDE43803-43DD-7BC8-A67A-EEA7209BD3EC": {
+    "data": {
+      "seed": 21271
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -16384,
+      -1392640
+    ]
+  },
+  "FE11E3D4-4D5C-23F6-011C-3197BB8039C3": {
+    "data": {
+      "seed": 6996
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -638976,
+      -32768
+    ]
+  },
+  "FE218540-45E6-09D2-75BB-CA800BDBAB90": {
+    "data": {
+      "seed": 20103
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 1,
+    "position": [
+      -688128,
+      -65536
+    ]
+  },
+  "FF99067A-4C3C-3DE8-E475-3E9C65DA7BB4": {
+    "data": {
+      "seed": 30470
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -753664,
+      -753664
+    ]
+  },
+  "FFAC6D20-40DA-A7B7-87B8-AA94EE817A1F": {
+    "data": {
+      "seed": 724
+    },
+    "facing": 0,
+    "kind": "DestructibleDeadTree",
+    "player": 0,
+    "position": [
+      -81920,
+      -1261568
+    ]
+  },
+  "version": 1
+}

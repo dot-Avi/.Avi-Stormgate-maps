@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    224,
+    224
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "245bd0ae-4072-83a7-178a-fa8aff13b24b",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_Deadlands",
+  "version": "1.0.0",
+  "visibility": "Unexplored"
+}

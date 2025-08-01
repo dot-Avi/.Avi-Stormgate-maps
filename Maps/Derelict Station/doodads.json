@@ -1,0 +1,359 @@
+{
+  "_doodad_file_version": 1,
+  "actor_classes": [
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "D_UrbanRuins_Pipe_07"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "door_01"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_Cliff_ChunkLarge_01"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_Cliff_ChunkLarge_02"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_Cliff_ChunkSmall_01"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_Cliff_ChunkSmall_02"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_Cliff_ChunkSmall_03"
+    },
+    {
+      "bp": "BlueprintGeneratedClass''",
+      "pa": "UrbanRuins_IndustrialPipesLadder_01"
+    }
+  ],
+  "placements": {
+    "031D7781-4E57-5FF1-DDE6-CF937C549471": {
+      "class": 6,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        1152.0,
+        -3456.0,
+        768.0,
+        0.0,
+        134.99999999999994,
+        0.0,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "051B87B4-4ADB-3C92-E4A3-5AA3D60998F3": {
+      "class": 5,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        768.0,
+        -2944.0,
+        511.9999705735968,
+        0.0,
+        180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "12F43A17-46DA-B547-1C2E-118A6F58B7DD": {
+      "class": 2,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -1152.0,
+        3072.0,
+        511.99996267237384,
+        0.0,
+        0.0,
+        0.0,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "1D0DEE50-48C6-E107-78D9-C09ADEF8C130": {
+      "class": 6,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        768.0,
+        -3200.0,
+        819.2,
+        0.0,
+        -180.0,
+        0.0,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "3A133AA3-4F02-B081-0134-E9AFD669AB95": {
+      "class": 3,
+      "collision": true,
+      "homing": false,
+      "trs": [
+        1536.0,
+        -3584.0,
+        640.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "4ADF1E35-4318-F8C8-1DD3-1FB35F57AC4A": {
+      "class": 7,
+      "collision": false,
+      "homing": true,
+      "trs": [
+        1536.0,
+        1408.0,
+        256.0000160812283,
+        0.0,
+        134.99999999999997,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "53AE25D5-4DAE-E975-FFE1-36AFAB7E6C13": {
+      "class": 4,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -1280.0,
+        3328.0,
+        511.99995499804345,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "64941A8E-4C91-97D6-EE0C-6C9AD1A793F2": {
+      "class": 4,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        1280.0,
+        -3328.0,
+        511.99995499804345,
+        0.0,
+        180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "6B4E0DF3-43BF-327A-E5B6-81A7DD1A6F8A": {
+      "class": 3,
+      "collision": false,
+      "homing": true,
+      "trs": [
+        384.0,
+        -2944.0,
+        771.5056538509596,
+        0.0,
+        180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "828F804E-4EA4-1AD9-9B57-7EA799A7260A": {
+      "class": 0,
+      "collision": false,
+      "homing": true,
+      "trs": [
+        -1792.0,
+        -512.0,
+        255.99999983826183,
+        0.0,
+        180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "84F2DAE9-4FB6-0F6D-04AA-7682F0A554EE": {
+      "class": 2,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        1152.0,
+        -3072.0,
+        511.99996267237384,
+        0.0,
+        -180.0,
+        0.0,
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "95BB9A4D-4C07-9483-2ECA-9DB45BA2F2B4": {
+      "class": 1,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        1521.9050678330584,
+        1670.2401190932571,
+        512.0,
+        0.0,
+        134.99999999999994,
+        -0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "96AF1EBF-48F2-90A9-2780-8DB1993AED27": {
+      "class": 0,
+      "collision": false,
+      "homing": true,
+      "trs": [
+        1792.0,
+        512.0,
+        255.99999983826183,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "A0ACBD7F-40E9-887C-F44F-44B9AA2A11AA": {
+      "class": 6,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        -768.0,
+        3200.0,
+        819.2,
+        0.0,
+        0.0,
+        0.0,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "A497F79F-47EC-4D0E-263F-AC9BE8F2784A": {
+      "class": 5,
+      "collision": true,
+      "homing": true,
+      "trs": [
+        -768.0,
+        2944.0,
+        511.9999705735968,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "BDF73D76-4CDE-F1D0-E176-D4A2E0168909": {
+      "class": 4,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        1920.0,
+        -3712.0,
+        640.0,
+        0.0,
+        0.0,
+        0.0,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "D2494A87-4AD0-3072-7DA5-8DBB36A34DA2": {
+      "class": 3,
+      "collision": true,
+      "homing": false,
+      "trs": [
+        -1536.0,
+        3584.0,
+        640.0,
+        0.0,
+        -180.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "DC59F161-4136-A062-A60B-D3A81C9A199E": {
+      "class": 4,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        -1920.0,
+        3712.0,
+        640.0,
+        0.0,
+        -180.0,
+        0.0,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "EE166EE9-42EE-A19C-C082-1D8DD55028BA": {
+      "class": 6,
+      "collision": false,
+      "homing": false,
+      "trs": [
+        -1152.0,
+        3456.0,
+        768.0,
+        1.7655625192200634e-31,
+        134.99999999999974,
+        -3.180554681463497e-15,
+        1.2,
+        1.2,
+        1.2
+      ]
+    },
+    "EE62A15A-4B26-0E69-FF4E-59B08839F1EB": {
+      "class": 3,
+      "collision": false,
+      "homing": true,
+      "trs": [
+        -384.0,
+        2944.0,
+        771.5056538509596,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}

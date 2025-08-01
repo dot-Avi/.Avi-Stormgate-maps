@@ -1,0 +1,600 @@
+﻿{
+  "actions": [
+    {
+      "function_id": "Game_SpawnStartingUnits",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "",
+                "value_id": ""
+              },
+              "script": "",
+              "type": "Function",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_SpawnTopBar",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "",
+                "value_id": ""
+              },
+              "script": "",
+              "type": "Function",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_SetStartingResources",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "PlayerGroup_GetAllPlayers",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "",
+                "value_id": ""
+              },
+              "script": "",
+              "type": "Function",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "player_group"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Game_ActivateEliminationWinCondition",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Game_EndCondition",
+                "value_id": "team_battle"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "win_condition"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Preset_OnOff",
+                "value_id": "on"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "toggle_structure_elimination"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Trigger_Run",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "",
+                "value_id": ""
+              },
+              "script": "",
+              "type": "Value",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "TypeRef",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": "Trigger"
+                },
+                "value": "MatchCountdownStart"
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "trigger"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Trigger_CheckIgnoreConditions",
+                "value_id": "check"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "conditions"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Trigger_WaitDontWait",
+                "value_id": "nowait"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "wait"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Time_Forever",
+                "value_id": "forever"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "timeout"
+        }
+      ],
+      "sub_functions": []
+    },
+    {
+      "function_id": "Trigger_Run",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "",
+                "value_id": ""
+              },
+              "script": "",
+              "type": "Value",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "TypeRef",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": "Trigger"
+                },
+                "value": "Init_StormgateObjectives"
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "trigger"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Trigger_CheckIgnoreConditions",
+                "value_id": "check"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "conditions"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Trigger_WaitDontWait",
+                "value_id": "nowait"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "wait"
+        },
+        {
+          "expressions": [
+            {
+              "function": {
+                "function_id": "",
+                "guid": "",
+                "is_enabled": true,
+                "parameters": [],
+                "sub_functions": []
+              },
+              "guid": "",
+              "preset": {
+                "guid": "",
+                "preset_id": "Time_Forever",
+                "value_id": "forever"
+              },
+              "script": "",
+              "type": "Preset",
+              "value": {
+                "guid": "",
+                "type": {
+                  "directive": "None",
+                  "implements": "",
+                  "inner_type": "",
+                  "param_id": "",
+                  "sub_directive": "None",
+                  "tags": [],
+                  "type": ""
+                },
+                "value": ""
+              },
+              "variable": {
+                "guid": "",
+                "indices": [],
+                "variable_id": ""
+              }
+            }
+          ],
+          "guid": "",
+          "id": "timeout"
+        }
+      ],
+      "sub_functions": []
+    }
+  ],
+  "based_on": "Trigger",
+  "conditions": [],
+  "dev_only": false,
+  "enabled": true,
+  "events": [
+    {
+      "function_id": "Game_OnMapInitialization",
+      "guid": "",
+      "is_enabled": true,
+      "parameters": [],
+      "sub_functions": []
+    }
+  ],
+  "id": "MeleeInitialization",
+  "variables": []
+}
